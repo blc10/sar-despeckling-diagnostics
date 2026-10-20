@@ -2,10 +2,9 @@
 
 ![Observations of the same phantom under three system responses, a despeckled estimate and its ratio image](docs/images/banner.png)
 
-Code, result tables and the pre-specified protocol of the article
-
-> M. Balcı and M. Y. Erten, "Sensor- and Scene-Dependent Validity of No-Reference Diagnostics for SAR Despeckling,"
-> *Remote Sensing*, [AUTHORS: year, volume, article number and DOI after publication].
+Code, result tables and the pre-specified protocol of the article *Sensor- and Scene-Dependent Validity of
+No-Reference Diagnostics for SAR Despeckling* by M. Balcı and M. Y. Erten. A link to the article will be added after
+publication.
 
 Despeckling methods for real SAR data are usually compared with no-reference diagnostics computed on the ratio image
 between the observation and the estimate. This repository contains the speckle simulator with system responses derived
@@ -17,15 +16,27 @@ test, which was fixed before the data were downloaded.
 
 ## Main findings
 
-* On 400 paired phantoms under controlled degradations, the ratio-edge measure *r* separated the true log error best
-  (AUC 0.708–0.846), but its AUC depended on the system response. The published orientation of the texture–divergence
-  measure inverted under correlated speckle, and no diagnostic reliably detected the attenuation of sparse point targets.
-* At the method level, the Gamma Jensen–Shannon divergence and the M-index followed the true error but were inversely
-  related to the point-target error, so they favored methods that suppressed strong scatterers.
-* Predictions fixed before data access were tested on 284 previously unused SARLO-80 records. Method profiles
-  transferred for six measures (Spearman ρ = 0.78–0.98), whereas absolute values did not.
+**The ability of a diagnostic to separate the true error depends on the system response.** On 400 paired phantoms under
+controlled degradations, the ratio-edge measure *r* separated the true log error best (AUC 0.708–0.846), but its AUC
+changed with the response. The published orientation of the texture–divergence measure inverted under correlated
+speckle, and no diagnostic reliably detected the attenuation of sparse point targets.
 
 ![AUC of the diagnostics under controlled degradations](docs/images/diagnostic_auc.png)
+
+**Distribution-based diagnostics reward the suppression of point targets.** At the method level, the Gamma
+Jensen–Shannon divergence and the M-index followed the true error but were inversely related to the point-target error.
+
+![Method-level Gamma JSD against the true peak error](docs/images/jsd_vs_peak_error.png)
+
+**Speckle correlation explains the failure of a published network.** Over a 25-point sweep of the oversampling ratio and
+the window parameter, the default CL-SAR weights collapsed, with a true log error above 0.6, at all 17 points with a lag-1 intensity correlation of at
+least 0.185 and at none of the 8 points with at most 0.170.
+
+<p align="center"><img src="docs/images/response_sweep.png" width="640" alt="System-response sweep"></p>
+
+**Rankings transfer to real data, absolute values do not.** Predictions fixed before data access were tested on 284
+previously unused SARLO-80 records. Method profiles transferred for six measures (Spearman ρ = 0.78–0.98), and the
+inverse relations of JSD and TDM deviation with an observation-referenced peak error persisted.
 
 ![Pre-specified real-data test on SARLO-80](docs/images/real_data_test.png)
 
@@ -116,7 +127,7 @@ real-data test.
 
 ## Citation
 
-If you use this code or the results, please cite the article above. Citation metadata are given in `CITATION.cff`.
+If you use this code or the results, please cite the article. Citation metadata are given in `CITATION.cff`.
 
 ## License
 
