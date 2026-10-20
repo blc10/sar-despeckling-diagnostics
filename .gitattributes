@@ -1,0 +1,4 @@
+# The sealed protocol must stay byte-identical so that its SHA-256 hash can be verified.
+protocol/PROTOKOL.json -text
+*.gz binary
+*.png binary

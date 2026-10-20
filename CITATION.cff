@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software or the result tables, please cite the article below."
+title: "Validity of no-reference diagnostics for SAR despeckling: code, results and protocol"
+version: 1.0.0
+license: MIT
+repository-code: "[AUTHORS: repository URL]"
+authors:
+  - family-names: "Balcı"
+    given-names: "Musa"
+    affiliation: "[AUTHORS: affiliation]"
+    orcid: "[AUTHORS: https://orcid.org/xxxx-xxxx-xxxx-xxxx]"
+  - family-names: "Erten"
+    given-names: "Mustafa Yasin"
+    affiliation: "[AUTHORS: affiliation]"
+    orcid: "[AUTHORS: https://orcid.org/xxxx-xxxx-xxxx-xxxx]"
+preferred-citation:
+  type: article
+  title: "Sensor- and Scene-Dependent Validity of No-Reference Diagnostics for SAR Despeckling"
+  journal: "Remote Sensing"
+  year: "[AUTHORS: year]"
+  volume: "[AUTHORS: volume]"
+  start: "[AUTHORS: article number]"
+  doi: "[AUTHORS: DOI]"
+  authors:
+    - family-names: "Balcı"
+      given-names: "Musa"
+    - family-names: "Erten"
+      given-names: "Mustafa Yasin"

@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sardiag"
+version = "1.0.0"
+description = "Validation of no-reference SAR despeckling diagnostics under known reflectivity"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.11"
+dependencies = ["numpy>=1.26", "scipy>=1.11", "pandas>=2.1"]
+
+[tool.setuptools]
+packages = ["sardiag"]

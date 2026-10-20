@@ -1,0 +1,227 @@
+[
+ {
+  "oversampling": 1.0,
+  "window_a": 0.54,
+  "rho2_lag1": 0.3907036400924073,
+  "auc_r": 0.7601307966706302,
+  "auc_tdm_published": 0.43388525564803804,
+  "cl_sar_default_true_log_rmse": 1.1599760246300002,
+  "jsd_peak_rho": -0.8065934065934066
+ },
+ {
+  "oversampling": 1.0,
+  "window_a": 0.65,
+  "rho2_lag1": 0.22116726425361716,
+  "auc_r": 0.7516736028537455,
+  "auc_tdm_published": 0.4889209274673008,
+  "cl_sar_default_true_log_rmse": 0.767252082824,
+  "jsd_peak_rho": -0.6791208791208792
+ },
+ {
+  "oversampling": 1.0,
+  "window_a": 0.75,
+  "rho2_lag1": 0.09972299168975075,
+  "auc_r": 0.8071581450653983,
+  "auc_tdm_published": 0.5347532699167657,
+  "cl_sar_default_true_log_rmse": 0.320310944018,
+  "jsd_peak_rho": -0.8989010989010989
+ },
+ {
+  "oversampling": 1.0,
+  "window_a": 0.85,
+  "rho2_lag1": 0.03019424266257269,
+  "auc_r": 0.8168281807372176,
+  "auc_tdm_published": 0.549024970273484,
+  "cl_sar_default_true_log_rmse": 0.144306623937,
+  "jsd_peak_rho": -0.8989010989010989
+ },
+ {
+  "oversampling": 1.0,
+  "window_a": 1.0,
+  "rho2_lag1": 7.703719777548943e-34,
+  "auc_r": 0.826114744351962,
+  "auc_tdm_published": 0.5611623067776457,
+  "cl_sar_default_true_log_rmse": 0.1357937480486,
+  "jsd_peak_rho": -0.8769230769230769
+ },
+ {
+  "oversampling": 1.15,
+  "window_a": 0.54,
+  "rho2_lag1": 0.4929582023986742,
+  "auc_r": 0.8146462544589774,
+  "auc_tdm_published": 0.44369797859690846,
+  "cl_sar_default_true_log_rmse": 1.020685027216,
+  "jsd_peak_rho": -0.9076923076923077
+ },
+ {
+  "oversampling": 1.15,
+  "window_a": 0.65,
+  "rho2_lag1": 0.32140216402722793,
+  "auc_r": 0.8120035671819262,
+  "auc_tdm_published": 0.4368103448275862,
+  "cl_sar_default_true_log_rmse": 1.06447828292,
+  "jsd_peak_rho": -0.7362637362637363
+ },
+ {
+  "oversampling": 1.15,
+  "window_a": 0.75,
+  "rho2_lag1": 0.1847032420506827,
+  "auc_r": 0.8033799048751487,
+  "auc_tdm_published": 0.46690546967895363,
+  "cl_sar_default_true_log_rmse": 0.638487132789,
+  "jsd_peak_rho": -0.767032967032967
+ },
+ {
+  "oversampling": 1.15,
+  "window_a": 0.85,
+  "rho2_lag1": 0.09159159792824238,
+  "auc_r": 0.8241438763376933,
+  "auc_tdm_published": 0.5002378121284186,
+  "cl_sar_default_true_log_rmse": 0.26721211626700003,
+  "jsd_peak_rho": -0.8769230769230769
+ },
+ {
+  "oversampling": 1.15,
+  "window_a": 1.0,
+  "rho2_lag1": 0.021332909099942586,
+  "auc_r": 0.7948781212841854,
+  "auc_tdm_published": 0.5204310344827586,
+  "cl_sar_default_true_log_rmse": 0.128715565567,
+  "jsd_peak_rho": -0.8637362637362638
+ },
+ {
+  "oversampling": 1.3,
+  "window_a": 0.54,
+  "rho2_lag1": 0.5758873856629683,
+  "auc_r": 0.8331212841854935,
+  "auc_tdm_published": 0.4472532699167657,
+  "cl_sar_default_true_log_rmse": 1.17225181225,
+  "jsd_peak_rho": -0.9076923076923077
+ },
+ {
+  "oversampling": 1.3,
+  "window_a": 0.65,
+  "rho2_lag1": 0.4126782847834019,
+  "auc_r": 0.7978032104637337,
+  "auc_tdm_published": 0.41957491082045184,
+  "cl_sar_default_true_log_rmse": 1.16526143901,
+  "jsd_peak_rho": -0.8021978021978022
+ },
+ {
+  "oversampling": 1.3,
+  "window_a": 0.75,
+  "rho2_lag1": 0.27355456213615037,
+  "auc_r": 0.8024137931034483,
+  "auc_tdm_published": 0.4214833531510107,
+  "cl_sar_default_true_log_rmse": 0.931328088044,
+  "jsd_peak_rho": -0.7230769230769231
+ },
+ {
+  "oversampling": 1.3,
+  "window_a": 0.85,
+  "rho2_lag1": 0.1695973469680757,
+  "auc_r": 0.7588139120095125,
+  "auc_tdm_published": 0.45111474435196197,
+  "cl_sar_default_true_log_rmse": 0.576224102383,
+  "jsd_peak_rho": -0.8461538461538461
+ },
+ {
+  "oversampling": 1.3,
+  "window_a": 1.0,
+  "rho2_lag1": 0.07525538794119857,
+  "auc_r": 0.6990695600475624,
+  "auc_tdm_published": 0.4459244946492271,
+  "cl_sar_default_true_log_rmse": 0.195397588013,
+  "jsd_peak_rho": -0.8813186813186813
+ },
+ {
+  "oversampling": 1.45,
+  "window_a": 0.54,
+  "rho2_lag1": 0.6423455576340392,
+  "auc_r": 0.8433412604042806,
+  "auc_tdm_published": 0.4396819262782402,
+  "cl_sar_default_true_log_rmse": 1.19475935099,
+  "jsd_peak_rho": -0.9032967032967033
+ },
+ {
+  "oversampling": 1.45,
+  "window_a": 0.65,
+  "rho2_lag1": 0.4919436960179807,
+  "auc_r": 0.8122978596908442,
+  "auc_tdm_published": 0.4325921521997622,
+  "cl_sar_default_true_log_rmse": 1.018364024758,
+  "jsd_peak_rho": -0.9120879120879121
+ },
+ {
+  "oversampling": 1.45,
+  "window_a": 0.75,
+  "rho2_lag1": 0.3577475179718694,
+  "auc_r": 0.8037841854934602,
+  "auc_tdm_published": 0.39910225921521997,
+  "cl_sar_default_true_log_rmse": 1.1128847849199999,
+  "jsd_peak_rho": -0.8109890109890111
+ },
+ {
+  "oversampling": 1.45,
+  "window_a": 0.85,
+  "rho2_lag1": 0.2516081874579432,
+  "auc_r": 0.8155202140309156,
+  "auc_tdm_published": 0.42203923900118906,
+  "cl_sar_default_true_log_rmse": 0.8382407563930001,
+  "jsd_peak_rho": -0.7142857142857143
+ },
+ {
+  "oversampling": 1.45,
+  "window_a": 1.0,
+  "rho2_lag1": 0.1458947979686077,
+  "auc_r": 0.7287574316290131,
+  "auc_tdm_published": 0.44110582639714624,
+  "cl_sar_default_true_log_rmse": 0.423886788489,
+  "jsd_peak_rho": -0.9208791208791209
+ },
+ {
+  "oversampling": 1.6,
+  "window_a": 0.54,
+  "rho2_lag1": 0.6956004733557909,
+  "auc_r": 0.8032877526753864,
+  "auc_tdm_published": 0.42119797859690844,
+  "cl_sar_default_true_log_rmse": 1.19020361184,
+  "jsd_peak_rho": -0.8989010989010989
+ },
+ {
+  "oversampling": 1.6,
+  "window_a": 0.65,
+  "rho2_lag1": 0.559044737103583,
+  "auc_r": 0.8656480380499405,
+  "auc_tdm_published": 0.4492419738406659,
+  "cl_sar_default_true_log_rmse": 1.14237035749,
+  "jsd_peak_rho": -0.9120879120879121
+ },
+ {
+  "oversampling": 1.6,
+  "window_a": 0.75,
+  "rho2_lag1": 0.43319268994529875,
+  "auc_r": 0.8367954815695601,
+  "auc_tdm_published": 0.40774970273483946,
+  "cl_sar_default_true_log_rmse": 1.1179066419800001,
+  "jsd_peak_rho": -0.832967032967033
+ },
+ {
+  "oversampling": 1.6,
+  "window_a": 0.85,
+  "rho2_lag1": 0.3298430398521588,
+  "auc_r": 0.8112782401902497,
+  "auc_tdm_published": 0.41612366230677766,
+  "cl_sar_default_true_log_rmse": 1.06800179363,
+  "jsd_peak_rho": -0.8109890109890111
+ },
+ {
+  "oversampling": 1.6,
+  "window_a": 1.0,
+  "rho2_lag1": 0.22108308820627903,
+  "auc_r": 0.732844827586207,
+  "auc_tdm_published": 0.4076426872770511,
+  "cl_sar_default_true_log_rmse": 0.694704630375,
+  "jsd_peak_rho": -0.7890109890109891
+ }
+]
