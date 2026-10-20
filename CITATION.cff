@@ -3,7 +3,7 @@ message: "If you use this software or the result tables, please cite the article
 title: "Validity of no-reference diagnostics for SAR despeckling: code, results and protocol"
 version: 1.0.0
 license: MIT
-repository-code: "[AUTHORS: repository URL]"
+repository-code: "https://github.com/blc10/sar-despeckling-diagnostics"
 authors:
   - family-names: "Balcı"
     given-names: "Musa"

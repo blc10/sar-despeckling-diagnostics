@@ -56,7 +56,7 @@ docs/images/              figures shown on this page
 Python 3.11 or later is required. The package depends only on NumPy, SciPy and pandas.
 
 ```bash
-git clone [AUTHORS: repository URL]
+git clone https://github.com/blc10/sar-despeckling-diagnostics.git
 cd sar-despeckling-diagnostics
 python -m pip install -r requirements.txt
 ```
