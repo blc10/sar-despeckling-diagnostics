@@ -1,0 +1,6167 @@
+{
+ "scenes": [
+  {
+   "scene": 0,
+   "site": "milan_temperate_urban_holdout",
+   "row": 0,
+   "col": 512,
+   "split": "eval",
+   "coords": [
+    [
+     189,
+     247
+    ],
+    [
+     90,
+     234
+    ],
+    [
+     243,
+     12
+    ],
+    [
+     128,
+     96
+    ],
+    [
+     133,
+     81
+    ],
+    [
+     242,
+     22
+    ],
+    [
+     177,
+     17
+    ],
+    [
+     127,
+     63
+    ]
+   ],
+   "homog_pixels": 1368,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 1,
+   "site": "milan_temperate_urban_holdout",
+   "row": 0,
+   "col": 768,
+   "split": "dv",
+   "coords": [
+    [
+     104,
+     157
+    ],
+    [
+     30,
+     146
+    ],
+    [
+     102,
+     147
+    ],
+    [
+     99,
+     214
+    ],
+    [
+     234,
+     37
+    ],
+    [
+     15,
+     232
+    ],
+    [
+     232,
+     28
+    ],
+    [
+     26,
+     86
+    ]
+   ],
+   "homog_pixels": 737,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 2,
+   "site": "milan_temperate_urban_holdout",
+   "row": 0,
+   "col": 1024,
+   "split": "eval",
+   "coords": [
+    [
+     19,
+     15
+    ],
+    [
+     105,
+     148
+    ],
+    [
+     17,
+     104
+    ],
+    [
+     116,
+     108
+    ],
+    [
+     73,
+     188
+    ],
+    [
+     79,
+     111
+    ],
+    [
+     101,
+     122
+    ],
+    [
+     31,
+     118
+    ]
+   ],
+   "homog_pixels": 648,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 3,
+   "site": "milan_temperate_urban_holdout",
+   "row": 0,
+   "col": 1280,
+   "split": "eval",
+   "coords": [
+    [
+     35,
+     23
+    ],
+    [
+     130,
+     126
+    ],
+    [
+     171,
+     242
+    ],
+    [
+     44,
+     159
+    ],
+    [
+     36,
+     145
+    ],
+    [
+     20,
+     159
+    ],
+    [
+     34,
+     168
+    ],
+    [
+     205,
+     181
+    ]
+   ],
+   "homog_pixels": 952,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 4,
+   "site": "milan_temperate_urban_holdout",
+   "row": 0,
+   "col": 1536,
+   "split": "eval",
+   "coords": [
+    [
+     153,
+     159
+    ],
+    [
+     169,
+     230
+    ],
+    [
+     241,
+     181
+    ],
+    [
+     68,
+     15
+    ],
+    [
+     174,
+     108
+    ],
+    [
+     245,
+     167
+    ],
+    [
+     43,
+     240
+    ],
+    [
+     70,
+     104
+    ]
+   ],
+   "homog_pixels": 497,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 5,
+   "site": "milan_temperate_urban_holdout",
+   "row": 0,
+   "col": 1792,
+   "split": "eval",
+   "coords": [
+    [
+     227,
+     77
+    ],
+    [
+     171,
+     28
+    ],
+    [
+     222,
+     45
+    ],
+    [
+     235,
+     34
+    ],
+    [
+     231,
+     43
+    ],
+    [
+     150,
+     38
+    ],
+    [
+     170,
+     47
+    ],
+    [
+     107,
+     42
+    ]
+   ],
+   "homog_pixels": 599,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 6,
+   "site": "milan_temperate_urban_holdout",
+   "row": 0,
+   "col": 2048,
+   "split": "eval",
+   "coords": [
+    [
+     154,
+     29
+    ],
+    [
+     247,
+     154
+    ],
+    [
+     145,
+     236
+    ],
+    [
+     93,
+     231
+    ],
+    [
+     208,
+     229
+    ],
+    [
+     198,
+     100
+    ],
+    [
+     198,
+     51
+    ],
+    [
+     195,
+     85
+    ]
+   ],
+   "homog_pixels": 977,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 7,
+   "site": "milan_temperate_urban_holdout",
+   "row": 0,
+   "col": 2304,
+   "split": "eval",
+   "coords": [
+    [
+     237,
+     48
+    ],
+    [
+     193,
+     66
+    ],
+    [
+     94,
+     194
+    ],
+    [
+     131,
+     171
+    ],
+    [
+     215,
+     10
+    ],
+    [
+     84,
+     165
+    ],
+    [
+     241,
+     81
+    ],
+    [
+     17,
+     180
+    ]
+   ],
+   "homog_pixels": 835,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 8,
+   "site": "milan_temperate_urban_holdout",
+   "row": 0,
+   "col": 2560,
+   "split": "eval",
+   "coords": [
+    [
+     245,
+     191
+    ],
+    [
+     218,
+     147
+    ],
+    [
+     217,
+     223
+    ],
+    [
+     211,
+     157
+    ],
+    [
+     179,
+     150
+    ],
+    [
+     107,
+     123
+    ],
+    [
+     32,
+     24
+    ],
+    [
+     235,
+     201
+    ]
+   ],
+   "homog_pixels": 1372,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 9,
+   "site": "milan_temperate_urban_holdout",
+   "row": 256,
+   "col": 512,
+   "split": "eval",
+   "coords": [
+    [
+     58,
+     97
+    ],
+    [
+     210,
+     84
+    ],
+    [
+     26,
+     95
+    ],
+    [
+     181,
+     125
+    ],
+    [
+     208,
+     50
+    ],
+    [
+     84,
+     91
+    ],
+    [
+     76,
+     118
+    ],
+    [
+     158,
+     20
+    ]
+   ],
+   "homog_pixels": 1228,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 10,
+   "site": "milan_temperate_urban_holdout",
+   "row": 256,
+   "col": 768,
+   "split": "eval",
+   "coords": [
+    [
+     159,
+     182
+    ],
+    [
+     69,
+     240
+    ],
+    [
+     95,
+     164
+    ],
+    [
+     222,
+     113
+    ],
+    [
+     98,
+     23
+    ],
+    [
+     132,
+     45
+    ],
+    [
+     222,
+     135
+    ],
+    [
+     160,
+     99
+    ]
+   ],
+   "homog_pixels": 209,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 11,
+   "site": "milan_temperate_urban_holdout",
+   "row": 256,
+   "col": 1024,
+   "split": "eval",
+   "coords": [
+    [
+     153,
+     165
+    ],
+    [
+     12,
+     122
+    ],
+    [
+     209,
+     224
+    ],
+    [
+     184,
+     235
+    ],
+    [
+     20,
+     98
+    ],
+    [
+     247,
+     151
+    ],
+    [
+     49,
+     130
+    ],
+    [
+     56,
+     179
+    ]
+   ],
+   "homog_pixels": 26,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 12,
+   "site": "milan_temperate_urban_holdout",
+   "row": 256,
+   "col": 1280,
+   "split": "eval",
+   "coords": [
+    [
+     81,
+     243
+    ],
+    [
+     72,
+     192
+    ],
+    [
+     153,
+     224
+    ],
+    [
+     117,
+     241
+    ],
+    [
+     75,
+     215
+    ],
+    [
+     78,
+     232
+    ],
+    [
+     74,
+     88
+    ],
+    [
+     105,
+     186
+    ]
+   ],
+   "homog_pixels": 92,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 13,
+   "site": "milan_temperate_urban_holdout",
+   "row": 256,
+   "col": 1536,
+   "split": "eval",
+   "coords": [
+    [
+     107,
+     17
+    ],
+    [
+     115,
+     11
+    ],
+    [
+     143,
+     69
+    ],
+    [
+     102,
+     8
+    ],
+    [
+     54,
+     211
+    ],
+    [
+     74,
+     32
+    ],
+    [
+     117,
+     164
+    ],
+    [
+     124,
+     56
+    ]
+   ],
+   "homog_pixels": 286,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 14,
+   "site": "milan_temperate_urban_holdout",
+   "row": 256,
+   "col": 1792,
+   "split": "dv",
+   "coords": [
+    [
+     29,
+     78
+    ],
+    [
+     29,
+     120
+    ],
+    [
+     118,
+     58
+    ],
+    [
+     135,
+     18
+    ],
+    [
+     161,
+     179
+    ],
+    [
+     96,
+     182
+    ],
+    [
+     119,
+     212
+    ],
+    [
+     28,
+     35
+    ]
+   ],
+   "homog_pixels": 186,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 15,
+   "site": "milan_temperate_urban_holdout",
+   "row": 256,
+   "col": 2048,
+   "split": "eval",
+   "coords": [
+    [
+     187,
+     172
+    ],
+    [
+     162,
+     228
+    ],
+    [
+     42,
+     130
+    ],
+    [
+     167,
+     111
+    ],
+    [
+     142,
+     155
+    ],
+    [
+     76,
+     195
+    ],
+    [
+     43,
+     103
+    ],
+    [
+     187,
+     183
+    ]
+   ],
+   "homog_pixels": 419,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 16,
+   "site": "milan_temperate_urban_holdout",
+   "row": 256,
+   "col": 2304,
+   "split": "eval",
+   "coords": [
+    [
+     126,
+     143
+    ],
+    [
+     137,
+     47
+    ],
+    [
+     41,
+     222
+    ],
+    [
+     31,
+     200
+    ],
+    [
+     140,
+     128
+    ],
+    [
+     201,
+     133
+    ],
+    [
+     133,
+     166
+    ],
+    [
+     77,
+     40
+    ]
+   ],
+   "homog_pixels": 211,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 17,
+   "site": "milan_temperate_urban_holdout",
+   "row": 256,
+   "col": 2560,
+   "split": "eval",
+   "coords": [
+    [
+     29,
+     34
+    ],
+    [
+     105,
+     42
+    ],
+    [
+     232,
+     143
+    ],
+    [
+     27,
+     144
+    ],
+    [
+     22,
+     164
+    ],
+    [
+     29,
+     101
+    ],
+    [
+     45,
+     147
+    ],
+    [
+     35,
+     85
+    ]
+   ],
+   "homog_pixels": 462,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 18,
+   "site": "milan_temperate_urban_holdout",
+   "row": 512,
+   "col": 256,
+   "split": "eval",
+   "coords": [
+    [
+     176,
+     216
+    ],
+    [
+     191,
+     192
+    ],
+    [
+     187,
+     184
+    ],
+    [
+     37,
+     119
+    ],
+    [
+     178,
+     202
+    ],
+    [
+     183,
+     176
+    ],
+    [
+     100,
+     16
+    ],
+    [
+     84,
+     158
+    ]
+   ],
+   "homog_pixels": 748,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 19,
+   "site": "milan_temperate_urban_holdout",
+   "row": 512,
+   "col": 768,
+   "split": "eval",
+   "coords": [
+    [
+     26,
+     239
+    ],
+    [
+     86,
+     117
+    ],
+    [
+     153,
+     170
+    ],
+    [
+     199,
+     177
+    ],
+    [
+     99,
+     166
+    ],
+    [
+     42,
+     65
+    ],
+    [
+     133,
+     215
+    ],
+    [
+     123,
+     148
+    ]
+   ],
+   "homog_pixels": 1461,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 20,
+   "site": "milan_temperate_urban_holdout",
+   "row": 512,
+   "col": 1024,
+   "split": "dv",
+   "coords": [
+    [
+     162,
+     219
+    ],
+    [
+     194,
+     176
+    ],
+    [
+     155,
+     154
+    ],
+    [
+     170,
+     153
+    ],
+    [
+     113,
+     85
+    ],
+    [
+     102,
+     40
+    ],
+    [
+     153,
+     143
+    ],
+    [
+     162,
+     144
+    ]
+   ],
+   "homog_pixels": 1434,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 21,
+   "site": "milan_temperate_urban_holdout",
+   "row": 512,
+   "col": 1280,
+   "split": "dv",
+   "coords": [
+    [
+     16,
+     21
+    ],
+    [
+     146,
+     54
+    ],
+    [
+     160,
+     212
+    ],
+    [
+     147,
+     67
+    ],
+    [
+     161,
+     13
+    ],
+    [
+     17,
+     38
+    ],
+    [
+     16,
+     30
+    ],
+    [
+     35,
+     216
+    ]
+   ],
+   "homog_pixels": 387,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 22,
+   "site": "milan_temperate_urban_holdout",
+   "row": 512,
+   "col": 1536,
+   "split": "eval",
+   "coords": [
+    [
+     143,
+     182
+    ],
+    [
+     131,
+     183
+    ],
+    [
+     56,
+     105
+    ],
+    [
+     53,
+     152
+    ],
+    [
+     158,
+     181
+    ],
+    [
+     116,
+     167
+    ],
+    [
+     203,
+     179
+    ],
+    [
+     208,
+     187
+    ]
+   ],
+   "homog_pixels": 278,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 23,
+   "site": "milan_temperate_urban_holdout",
+   "row": 512,
+   "col": 1792,
+   "split": "dv",
+   "coords": [
+    [
+     128,
+     233
+    ],
+    [
+     201,
+     185
+    ],
+    [
+     106,
+     235
+    ],
+    [
+     186,
+     111
+    ],
+    [
+     238,
+     158
+    ],
+    [
+     27,
+     103
+    ],
+    [
+     45,
+     137
+    ],
+    [
+     224,
+     53
+    ]
+   ],
+   "homog_pixels": 791,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 24,
+   "site": "milan_temperate_urban_holdout",
+   "row": 512,
+   "col": 2048,
+   "split": "eval",
+   "coords": [
+    [
+     115,
+     11
+    ],
+    [
+     68,
+     156
+    ],
+    [
+     196,
+     208
+    ],
+    [
+     191,
+     201
+    ],
+    [
+     193,
+     217
+    ],
+    [
+     233,
+     79
+    ],
+    [
+     170,
+     105
+    ],
+    [
+     189,
+     142
+    ]
+   ],
+   "homog_pixels": 301,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 25,
+   "site": "milan_temperate_urban_holdout",
+   "row": 512,
+   "col": 2304,
+   "split": "eval",
+   "coords": [
+    [
+     180,
+     29
+    ],
+    [
+     27,
+     22
+    ],
+    [
+     15,
+     168
+    ],
+    [
+     66,
+     18
+    ],
+    [
+     198,
+     95
+    ],
+    [
+     92,
+     185
+    ],
+    [
+     87,
+     31
+    ],
+    [
+     243,
+     144
+    ]
+   ],
+   "homog_pixels": 401,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 26,
+   "site": "milan_temperate_urban_holdout",
+   "row": 512,
+   "col": 2560,
+   "split": "eval",
+   "coords": [
+    [
+     201,
+     165
+    ],
+    [
+     241,
+     186
+    ],
+    [
+     239,
+     161
+    ],
+    [
+     198,
+     211
+    ],
+    [
+     201,
+     152
+    ],
+    [
+     238,
+     135
+    ],
+    [
+     210,
+     165
+    ],
+    [
+     141,
+     122
+    ]
+   ],
+   "homog_pixels": 642,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 27,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 256,
+   "col": 0,
+   "split": "eval",
+   "coords": [
+    [
+     163,
+     134
+    ],
+    [
+     168,
+     116
+    ],
+    [
+     153,
+     19
+    ],
+    [
+     85,
+     174
+    ],
+    [
+     152,
+     96
+    ],
+    [
+     150,
+     141
+    ],
+    [
+     154,
+     47
+    ],
+    [
+     162,
+     110
+    ]
+   ],
+   "homog_pixels": 585,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 28,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 256,
+   "col": 256,
+   "split": "dv",
+   "coords": [
+    [
+     76,
+     25
+    ],
+    [
+     180,
+     37
+    ],
+    [
+     58,
+     21
+    ],
+    [
+     222,
+     185
+    ],
+    [
+     63,
+     94
+    ],
+    [
+     134,
+     70
+    ],
+    [
+     202,
+     163
+    ],
+    [
+     166,
+     160
+    ]
+   ],
+   "homog_pixels": 697,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 29,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 256,
+   "col": 512,
+   "split": "eval",
+   "coords": [
+    [
+     73,
+     203
+    ],
+    [
+     90,
+     225
+    ],
+    [
+     90,
+     240
+    ],
+    [
+     56,
+     201
+    ],
+    [
+     205,
+     51
+    ],
+    [
+     66,
+     224
+    ],
+    [
+     193,
+     243
+    ],
+    [
+     90,
+     215
+    ]
+   ],
+   "homog_pixels": 126,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 30,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 256,
+   "col": 768,
+   "split": "dv",
+   "coords": [
+    [
+     48,
+     166
+    ],
+    [
+     48,
+     34
+    ],
+    [
+     13,
+     241
+    ],
+    [
+     77,
+     150
+    ],
+    [
+     40,
+     41
+    ],
+    [
+     66,
+     169
+    ],
+    [
+     61,
+     143
+    ],
+    [
+     42,
+     64
+    ]
+   ],
+   "homog_pixels": 476,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 31,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 256,
+   "col": 1024,
+   "split": "eval",
+   "coords": [
+    [
+     21,
+     216
+    ],
+    [
+     59,
+     193
+    ],
+    [
+     22,
+     225
+    ],
+    [
+     87,
+     40
+    ],
+    [
+     84,
+     55
+    ],
+    [
+     90,
+     22
+    ],
+    [
+     69,
+     230
+    ],
+    [
+     62,
+     205
+    ]
+   ],
+   "homog_pixels": 3345,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 32,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 256,
+   "col": 1280,
+   "split": "dv",
+   "coords": [
+    [
+     96,
+     191
+    ],
+    [
+     95,
+     179
+    ],
+    [
+     35,
+     126
+    ],
+    [
+     156,
+     210
+    ],
+    [
+     150,
+     176
+    ],
+    [
+     157,
+     180
+    ],
+    [
+     38,
+     22
+    ],
+    [
+     145,
+     237
+    ]
+   ],
+   "homog_pixels": 1409,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 33,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 256,
+   "col": 1536,
+   "split": "dv",
+   "coords": [
+    [
+     239,
+     233
+    ],
+    [
+     234,
+     127
+    ],
+    [
+     158,
+     40
+    ],
+    [
+     84,
+     32
+    ],
+    [
+     235,
+     241
+    ],
+    [
+     246,
+     203
+    ],
+    [
+     187,
+     43
+    ],
+    [
+     224,
+     202
+    ]
+   ],
+   "homog_pixels": 1630,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 34,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 256,
+   "col": 1792,
+   "split": "dv",
+   "coords": [
+    [
+     236,
+     222
+    ],
+    [
+     228,
+     219
+    ],
+    [
+     224,
+     242
+    ],
+    [
+     100,
+     189
+    ],
+    [
+     235,
+     190
+    ],
+    [
+     242,
+     236
+    ],
+    [
+     239,
+     163
+    ],
+    [
+     149,
+     19
+    ]
+   ],
+   "homog_pixels": 2829,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 35,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 256,
+   "col": 2048,
+   "split": "eval",
+   "coords": [
+    [
+     224,
+     89
+    ],
+    [
+     55,
+     192
+    ],
+    [
+     57,
+     219
+    ],
+    [
+     224,
+     34
+    ],
+    [
+     61,
+     209
+    ],
+    [
+     245,
+     140
+    ],
+    [
+     243,
+     102
+    ],
+    [
+     230,
+     124
+    ]
+   ],
+   "homog_pixels": 229,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 36,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 256,
+   "col": 2304,
+   "split": "dv",
+   "coords": [
+    [
+     226,
+     148
+    ],
+    [
+     74,
+     230
+    ],
+    [
+     79,
+     135
+    ],
+    [
+     231,
+     158
+    ],
+    [
+     205,
+     13
+    ],
+    [
+     241,
+     40
+    ],
+    [
+     133,
+     200
+    ],
+    [
+     57,
+     107
+    ]
+   ],
+   "homog_pixels": 350,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 37,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 256,
+   "col": 2560,
+   "split": "eval",
+   "coords": [
+    [
+     189,
+     156
+    ],
+    [
+     210,
+     204
+    ],
+    [
+     218,
+     164
+    ],
+    [
+     204,
+     225
+    ],
+    [
+     220,
+     188
+    ],
+    [
+     104,
+     48
+    ],
+    [
+     185,
+     244
+    ],
+    [
+     45,
+     97
+    ]
+   ],
+   "homog_pixels": 220,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 38,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 256,
+   "col": 2816,
+   "split": "eval",
+   "coords": [
+    [
+     72,
+     160
+    ],
+    [
+     235,
+     136
+    ],
+    [
+     157,
+     99
+    ],
+    [
+     198,
+     19
+    ],
+    [
+     238,
+     9
+    ],
+    [
+     223,
+     63
+    ],
+    [
+     235,
+     25
+    ],
+    [
+     158,
+     118
+    ]
+   ],
+   "homog_pixels": 1168,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 39,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 256,
+   "col": 3072,
+   "split": "eval",
+   "coords": [
+    [
+     221,
+     17
+    ],
+    [
+     245,
+     19
+    ],
+    [
+     21,
+     78
+    ],
+    [
+     235,
+     74
+    ],
+    [
+     225,
+     24
+    ],
+    [
+     237,
+     97
+    ],
+    [
+     244,
+     90
+    ],
+    [
+     15,
+     205
+    ]
+   ],
+   "homog_pixels": 597,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 40,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 512,
+   "col": 1024,
+   "split": "eval",
+   "coords": [
+    [
+     187,
+     50
+    ],
+    [
+     149,
+     147
+    ],
+    [
+     63,
+     112
+    ],
+    [
+     84,
+     57
+    ],
+    [
+     202,
+     154
+    ],
+    [
+     179,
+     57
+    ],
+    [
+     64,
+     83
+    ],
+    [
+     181,
+     43
+    ]
+   ],
+   "homog_pixels": 529,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 41,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 512,
+   "col": 1280,
+   "split": "dv",
+   "coords": [
+    [
+     240,
+     27
+    ],
+    [
+     9,
+     139
+    ],
+    [
+     71,
+     96
+    ],
+    [
+     99,
+     207
+    ],
+    [
+     140,
+     129
+    ],
+    [
+     241,
+     17
+    ],
+    [
+     21,
+     190
+    ],
+    [
+     171,
+     26
+    ]
+   ],
+   "homog_pixels": 505,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 42,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 512,
+   "col": 1536,
+   "split": "eval",
+   "coords": [
+    [
+     81,
+     100
+    ],
+    [
+     82,
+     219
+    ],
+    [
+     83,
+     91
+    ],
+    [
+     141,
+     59
+    ],
+    [
+     208,
+     107
+    ],
+    [
+     51,
+     216
+    ],
+    [
+     97,
+     62
+    ],
+    [
+     58,
+     194
+    ]
+   ],
+   "homog_pixels": 158,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 43,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 512,
+   "col": 1792,
+   "split": "eval",
+   "coords": [
+    [
+     19,
+     225
+    ],
+    [
+     30,
+     99
+    ],
+    [
+     32,
+     108
+    ],
+    [
+     221,
+     129
+    ],
+    [
+     18,
+     92
+    ],
+    [
+     208,
+     127
+    ],
+    [
+     21,
+     113
+    ],
+    [
+     32,
+     60
+    ]
+   ],
+   "homog_pixels": 824,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 44,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 512,
+   "col": 2048,
+   "split": "eval",
+   "coords": [
+    [
+     12,
+     219
+    ],
+    [
+     12,
+     233
+    ],
+    [
+     195,
+     188
+    ],
+    [
+     12,
+     185
+    ],
+    [
+     203,
+     215
+    ],
+    [
+     35,
+     218
+    ],
+    [
+     35,
+     210
+    ],
+    [
+     175,
+     129
+    ]
+   ],
+   "homog_pixels": 680,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 45,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 512,
+   "col": 2304,
+   "split": "dv",
+   "coords": [
+    [
+     18,
+     179
+    ],
+    [
+     177,
+     60
+    ],
+    [
+     111,
+     8
+    ],
+    [
+     21,
+     214
+    ],
+    [
+     20,
+     187
+    ],
+    [
+     15,
+     133
+    ],
+    [
+     35,
+     59
+    ],
+    [
+     22,
+     148
+    ]
+   ],
+   "homog_pixels": 1057,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 46,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 512,
+   "col": 2560,
+   "split": "eval",
+   "coords": [
+    [
+     33,
+     181
+    ],
+    [
+     112,
+     27
+    ],
+    [
+     21,
+     46
+    ],
+    [
+     114,
+     43
+    ],
+    [
+     26,
+     164
+    ],
+    [
+     20,
+     35
+    ],
+    [
+     41,
+     171
+    ],
+    [
+     150,
+     12
+    ]
+   ],
+   "homog_pixels": 885,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 47,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 512,
+   "col": 2816,
+   "split": "eval",
+   "coords": [
+    [
+     74,
+     179
+    ],
+    [
+     68,
+     199
+    ],
+    [
+     213,
+     179
+    ],
+    [
+     71,
+     148
+    ],
+    [
+     193,
+     109
+    ],
+    [
+     210,
+     149
+    ],
+    [
+     115,
+     149
+    ],
+    [
+     196,
+     68
+    ]
+   ],
+   "homog_pixels": 447,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 48,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 512,
+   "col": 3072,
+   "split": "dv",
+   "coords": [
+    [
+     172,
+     118
+    ],
+    [
+     124,
+     246
+    ],
+    [
+     240,
+     17
+    ],
+    [
+     85,
+     86
+    ],
+    [
+     53,
+     204
+    ],
+    [
+     234,
+     150
+    ],
+    [
+     85,
+     101
+    ],
+    [
+     109,
+     229
+    ]
+   ],
+   "homog_pixels": 907,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 49,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 768,
+   "col": 0,
+   "split": "eval",
+   "coords": [
+    [
+     46,
+     23
+    ],
+    [
+     123,
+     69
+    ],
+    [
+     131,
+     153
+    ],
+    [
+     219,
+     236
+    ],
+    [
+     228,
+     27
+    ],
+    [
+     195,
+     174
+    ],
+    [
+     192,
+     58
+    ],
+    [
+     46,
+     11
+    ]
+   ],
+   "homog_pixels": 332,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 50,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 768,
+   "col": 256,
+   "split": "dv",
+   "coords": [
+    [
+     239,
+     93
+    ],
+    [
+     230,
+     73
+    ],
+    [
+     58,
+     242
+    ],
+    [
+     183,
+     34
+    ],
+    [
+     225,
+     88
+    ],
+    [
+     136,
+     33
+    ],
+    [
+     29,
+     151
+    ],
+    [
+     113,
+     54
+    ]
+   ],
+   "homog_pixels": 171,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 51,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 768,
+   "col": 512,
+   "split": "eval",
+   "coords": [
+    [
+     33,
+     49
+    ],
+    [
+     147,
+     231
+    ],
+    [
+     71,
+     56
+    ],
+    [
+     41,
+     21
+    ],
+    [
+     154,
+     151
+    ],
+    [
+     47,
+     8
+    ],
+    [
+     207,
+     18
+    ],
+    [
+     26,
+     172
+    ]
+   ],
+   "homog_pixels": 270,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 52,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 768,
+   "col": 768,
+   "split": "eval",
+   "coords": [
+    [
+     27,
+     131
+    ],
+    [
+     219,
+     34
+    ],
+    [
+     98,
+     94
+    ],
+    [
+     71,
+     105
+    ],
+    [
+     222,
+     95
+    ],
+    [
+     130,
+     95
+    ],
+    [
+     123,
+     26
+    ],
+    [
+     118,
+     17
+    ]
+   ],
+   "homog_pixels": 660,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 53,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 768,
+   "col": 1024,
+   "split": "eval",
+   "coords": [
+    [
+     86,
+     222
+    ],
+    [
+     188,
+     126
+    ],
+    [
+     114,
+     179
+    ],
+    [
+     188,
+     167
+    ],
+    [
+     147,
+     101
+    ],
+    [
+     64,
+     96
+    ],
+    [
+     133,
+     119
+    ],
+    [
+     114,
+     160
+    ]
+   ],
+   "homog_pixels": 555,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 54,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 768,
+   "col": 1280,
+   "split": "eval",
+   "coords": [
+    [
+     72,
+     60
+    ],
+    [
+     211,
+     163
+    ],
+    [
+     211,
+     60
+    ],
+    [
+     127,
+     235
+    ],
+    [
+     112,
+     22
+    ],
+    [
+     212,
+     127
+    ],
+    [
+     116,
+     32
+    ],
+    [
+     245,
+     78
+    ]
+   ],
+   "homog_pixels": 1233,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 55,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 768,
+   "col": 1536,
+   "split": "eval",
+   "coords": [
+    [
+     147,
+     98
+    ],
+    [
+     185,
+     240
+    ],
+    [
+     167,
+     161
+    ],
+    [
+     138,
+     210
+    ],
+    [
+     106,
+     216
+    ],
+    [
+     155,
+     226
+    ],
+    [
+     156,
+     241
+    ],
+    [
+     139,
+     71
+    ]
+   ],
+   "homog_pixels": 2646,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 56,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 768,
+   "col": 1792,
+   "split": "dv",
+   "coords": [
+    [
+     116,
+     171
+    ],
+    [
+     170,
+     111
+    ],
+    [
+     152,
+     181
+    ],
+    [
+     139,
+     55
+    ],
+    [
+     166,
+     98
+    ],
+    [
+     130,
+     208
+    ],
+    [
+     162,
+     59
+    ],
+    [
+     122,
+     184
+    ]
+   ],
+   "homog_pixels": 772,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 57,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 768,
+   "col": 2048,
+   "split": "eval",
+   "coords": [
+    [
+     156,
+     111
+    ],
+    [
+     73,
+     89
+    ],
+    [
+     91,
+     19
+    ],
+    [
+     82,
+     85
+    ],
+    [
+     168,
+     48
+    ],
+    [
+     61,
+     77
+    ],
+    [
+     209,
+     181
+    ],
+    [
+     10,
+     180
+    ]
+   ],
+   "homog_pixels": 1027,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 58,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 768,
+   "col": 2304,
+   "split": "dv",
+   "coords": [
+    [
+     138,
+     112
+    ],
+    [
+     151,
+     141
+    ],
+    [
+     168,
+     113
+    ],
+    [
+     169,
+     78
+    ],
+    [
+     14,
+     230
+    ],
+    [
+     216,
+     28
+    ],
+    [
+     12,
+     92
+    ],
+    [
+     47,
+     143
+    ]
+   ],
+   "homog_pixels": 3509,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 59,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 768,
+   "col": 2560,
+   "split": "eval",
+   "coords": [
+    [
+     143,
+     37
+    ],
+    [
+     201,
+     137
+    ],
+    [
+     166,
+     9
+    ],
+    [
+     148,
+     77
+    ],
+    [
+     181,
+     204
+    ],
+    [
+     81,
+     223
+    ],
+    [
+     166,
+     49
+    ],
+    [
+     193,
+     187
+    ]
+   ],
+   "homog_pixels": 1870,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 60,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 768,
+   "col": 2816,
+   "split": "eval",
+   "coords": [
+    [
+     115,
+     58
+    ],
+    [
+     102,
+     32
+    ],
+    [
+     111,
+     51
+    ],
+    [
+     124,
+     199
+    ],
+    [
+     232,
+     118
+    ],
+    [
+     31,
+     224
+    ],
+    [
+     194,
+     50
+    ],
+    [
+     106,
+     42
+    ]
+   ],
+   "homog_pixels": 2547,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 61,
+   "site": "warsaw_temperate_urban_holdout",
+   "row": 768,
+   "col": 3072,
+   "split": "dv",
+   "coords": [
+    [
+     39,
+     23
+    ],
+    [
+     46,
+     30
+    ],
+    [
+     125,
+     69
+    ],
+    [
+     79,
+     131
+    ],
+    [
+     127,
+     98
+    ],
+    [
+     46,
+     108
+    ],
+    [
+     31,
+     65
+    ],
+    [
+     21,
+     37
+    ]
+   ],
+   "homog_pixels": 1468,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 62,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 0,
+   "col": 0,
+   "split": "eval",
+   "coords": [
+    [
+     221,
+     39
+    ],
+    [
+     197,
+     85
+    ],
+    [
+     98,
+     228
+    ],
+    [
+     177,
+     181
+    ],
+    [
+     244,
+     164
+    ],
+    [
+     239,
+     119
+    ],
+    [
+     86,
+     171
+    ],
+    [
+     245,
+     135
+    ]
+   ],
+   "homog_pixels": 408,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 63,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 0,
+   "col": 256,
+   "split": "dv",
+   "coords": [
+    [
+     163,
+     149
+    ],
+    [
+     195,
+     96
+    ],
+    [
+     219,
+     82
+    ],
+    [
+     240,
+     130
+    ],
+    [
+     221,
+     47
+    ],
+    [
+     192,
+     44
+    ],
+    [
+     238,
+     190
+    ],
+    [
+     113,
+     95
+    ]
+   ],
+   "homog_pixels": 691,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 64,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 0,
+   "col": 512,
+   "split": "eval",
+   "coords": [
+    [
+     223,
+     33
+    ],
+    [
+     209,
+     48
+    ],
+    [
+     175,
+     126
+    ],
+    [
+     63,
+     209
+    ],
+    [
+     197,
+     46
+    ],
+    [
+     87,
+     181
+    ],
+    [
+     209,
+     92
+    ],
+    [
+     200,
+     102
+    ]
+   ],
+   "homog_pixels": 449,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 65,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 0,
+   "col": 768,
+   "split": "eval",
+   "coords": [
+    [
+     234,
+     239
+    ],
+    [
+     45,
+     97
+    ],
+    [
+     204,
+     72
+    ],
+    [
+     100,
+     92
+    ],
+    [
+     55,
+     66
+    ],
+    [
+     166,
+     245
+    ],
+    [
+     45,
+     118
+    ],
+    [
+     218,
+     204
+    ]
+   ],
+   "homog_pixels": 274,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 66,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 0,
+   "col": 1024,
+   "split": "dv",
+   "coords": [
+    [
+     243,
+     118
+    ],
+    [
+     42,
+     177
+    ],
+    [
+     108,
+     227
+    ],
+    [
+     39,
+     234
+    ],
+    [
+     22,
+     196
+    ],
+    [
+     42,
+     99
+    ],
+    [
+     107,
+     239
+    ],
+    [
+     245,
+     87
+    ]
+   ],
+   "homog_pixels": 415,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 67,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 0,
+   "col": 1280,
+   "split": "eval",
+   "coords": [
+    [
+     219,
+     184
+    ],
+    [
+     113,
+     13
+    ],
+    [
+     68,
+     115
+    ],
+    [
+     190,
+     64
+    ],
+    [
+     221,
+     164
+    ],
+    [
+     165,
+     18
+    ],
+    [
+     164,
+     79
+    ],
+    [
+     43,
+     240
+    ]
+   ],
+   "homog_pixels": 367,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 68,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 0,
+   "col": 1536,
+   "split": "eval",
+   "coords": [
+    [
+     210,
+     105
+    ],
+    [
+     189,
+     143
+    ],
+    [
+     61,
+     14
+    ],
+    [
+     230,
+     169
+    ],
+    [
+     125,
+     70
+    ],
+    [
+     123,
+     159
+    ],
+    [
+     231,
+     158
+    ],
+    [
+     114,
+     111
+    ]
+   ],
+   "homog_pixels": 247,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 69,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 0,
+   "col": 1792,
+   "split": "eval",
+   "coords": [
+    [
+     201,
+     99
+    ],
+    [
+     198,
+     221
+    ],
+    [
+     65,
+     149
+    ],
+    [
+     181,
+     92
+    ],
+    [
+     118,
+     203
+    ],
+    [
+     199,
+     25
+    ],
+    [
+     174,
+     20
+    ],
+    [
+     245,
+     18
+    ]
+   ],
+   "homog_pixels": 946,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 70,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 0,
+   "col": 2048,
+   "split": "dv",
+   "coords": [
+    [
+     243,
+     70
+    ],
+    [
+     238,
+     28
+    ],
+    [
+     221,
+     66
+    ],
+    [
+     233,
+     44
+    ],
+    [
+     238,
+     111
+    ],
+    [
+     226,
+     56
+    ],
+    [
+     241,
+     19
+    ],
+    [
+     235,
+     97
+    ]
+   ],
+   "homog_pixels": 807,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 71,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 0,
+   "col": 2304,
+   "split": "eval",
+   "coords": [
+    [
+     245,
+     9
+    ],
+    [
+     206,
+     118
+    ],
+    [
+     242,
+     25
+    ],
+    [
+     186,
+     125
+    ],
+    [
+     202,
+     40
+    ],
+    [
+     33,
+     208
+    ],
+    [
+     82,
+     102
+    ],
+    [
+     241,
+     43
+    ]
+   ],
+   "homog_pixels": 119,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 72,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 256,
+   "col": 0,
+   "split": "eval",
+   "coords": [
+    [
+     24,
+     243
+    ],
+    [
+     214,
+     69
+    ],
+    [
+     109,
+     32
+    ],
+    [
+     25,
+     217
+    ],
+    [
+     199,
+     98
+    ],
+    [
+     139,
+     21
+    ],
+    [
+     18,
+     190
+    ],
+    [
+     29,
+     235
+    ]
+   ],
+   "homog_pixels": 828,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 73,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 256,
+   "col": 256,
+   "split": "eval",
+   "coords": [
+    [
+     29,
+     154
+    ],
+    [
+     22,
+     47
+    ],
+    [
+     194,
+     129
+    ],
+    [
+     60,
+     222
+    ],
+    [
+     136,
+     46
+    ],
+    [
+     55,
+     247
+    ],
+    [
+     66,
+     237
+    ],
+    [
+     119,
+     223
+    ]
+   ],
+   "homog_pixels": 1034,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 74,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 256,
+   "col": 512,
+   "split": "dv",
+   "coords": [
+    [
+     19,
+     129
+    ],
+    [
+     32,
+     134
+    ],
+    [
+     22,
+     153
+    ],
+    [
+     9,
+     99
+    ],
+    [
+     168,
+     62
+    ],
+    [
+     246,
+     83
+    ],
+    [
+     100,
+     125
+    ],
+    [
+     64,
+     189
+    ]
+   ],
+   "homog_pixels": 277,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 75,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 256,
+   "col": 768,
+   "split": "dv",
+   "coords": [
+    [
+     211,
+     162
+    ],
+    [
+     124,
+     76
+    ],
+    [
+     126,
+     153
+    ],
+    [
+     185,
+     79
+    ],
+    [
+     24,
+     97
+    ],
+    [
+     107,
+     174
+    ],
+    [
+     131,
+     98
+    ],
+    [
+     130,
+     107
+    ]
+   ],
+   "homog_pixels": 204,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 76,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 256,
+   "col": 1024,
+   "split": "eval",
+   "coords": [
+    [
+     239,
+     136
+    ],
+    [
+     136,
+     191
+    ],
+    [
+     222,
+     152
+    ],
+    [
+     37,
+     78
+    ],
+    [
+     207,
+     174
+    ],
+    [
+     216,
+     104
+    ],
+    [
+     238,
+     119
+    ],
+    [
+     218,
+     210
+    ]
+   ],
+   "homog_pixels": 389,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 77,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 256,
+   "col": 1280,
+   "split": "dv",
+   "coords": [
+    [
+     120,
+     185
+    ],
+    [
+     27,
+     185
+    ],
+    [
+     190,
+     239
+    ],
+    [
+     190,
+     225
+    ],
+    [
+     111,
+     157
+    ],
+    [
+     129,
+     134
+    ],
+    [
+     230,
+     241
+    ],
+    [
+     105,
+     126
+    ]
+   ],
+   "homog_pixels": 610,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 78,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 256,
+   "col": 1536,
+   "split": "dv",
+   "coords": [
+    [
+     117,
+     101
+    ],
+    [
+     93,
+     160
+    ],
+    [
+     119,
+     74
+    ],
+    [
+     118,
+     25
+    ],
+    [
+     204,
+     200
+    ],
+    [
+     84,
+     23
+    ],
+    [
+     203,
+     68
+    ],
+    [
+     88,
+     70
+    ]
+   ],
+   "homog_pixels": 1704,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 79,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 256,
+   "col": 1792,
+   "split": "dv",
+   "coords": [
+    [
+     157,
+     115
+    ],
+    [
+     159,
+     90
+    ],
+    [
+     160,
+     82
+    ],
+    [
+     167,
+     13
+    ],
+    [
+     218,
+     195
+    ],
+    [
+     157,
+     100
+    ],
+    [
+     77,
+     223
+    ],
+    [
+     147,
+     195
+    ]
+   ],
+   "homog_pixels": 727,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 80,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 256,
+   "col": 2048,
+   "split": "eval",
+   "coords": [
+    [
+     225,
+     63
+    ],
+    [
+     224,
+     42
+    ],
+    [
+     227,
+     90
+    ],
+    [
+     205,
+     143
+    ],
+    [
+     125,
+     57
+    ],
+    [
+     136,
+     87
+    ],
+    [
+     188,
+     101
+    ],
+    [
+     84,
+     198
+    ]
+   ],
+   "homog_pixels": 1023,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 81,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 512,
+   "col": 0,
+   "split": "eval",
+   "coords": [
+    [
+     21,
+     133
+    ],
+    [
+     26,
+     165
+    ],
+    [
+     79,
+     25
+    ],
+    [
+     14,
+     220
+    ],
+    [
+     39,
+     41
+    ],
+    [
+     78,
+     141
+    ],
+    [
+     58,
+     234
+    ],
+    [
+     22,
+     125
+    ]
+   ],
+   "homog_pixels": 2590,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 82,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 512,
+   "col": 256,
+   "split": "eval",
+   "coords": [
+    [
+     140,
+     193
+    ],
+    [
+     36,
+     239
+    ],
+    [
+     111,
+     201
+    ],
+    [
+     37,
+     96
+    ],
+    [
+     240,
+     223
+    ],
+    [
+     47,
+     229
+    ],
+    [
+     51,
+     149
+    ],
+    [
+     233,
+     41
+    ]
+   ],
+   "homog_pixels": 1826,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 83,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 512,
+   "col": 512,
+   "split": "dv",
+   "coords": [
+    [
+     174,
+     21
+    ],
+    [
+     236,
+     27
+    ],
+    [
+     149,
+     225
+    ],
+    [
+     124,
+     26
+    ],
+    [
+     244,
+     242
+    ],
+    [
+     216,
+     196
+    ],
+    [
+     72,
+     75
+    ],
+    [
+     90,
+     122
+    ]
+   ],
+   "homog_pixels": 489,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 84,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 512,
+   "col": 768,
+   "split": "eval",
+   "coords": [
+    [
+     168,
+     134
+    ],
+    [
+     32,
+     96
+    ],
+    [
+     159,
+     91
+    ],
+    [
+     129,
+     23
+    ],
+    [
+     247,
+     50
+    ],
+    [
+     169,
+     67
+    ],
+    [
+     192,
+     118
+    ],
+    [
+     167,
+     124
+    ]
+   ],
+   "homog_pixels": 257,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 85,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 512,
+   "col": 1024,
+   "split": "dv",
+   "coords": [
+    [
+     11,
+     136
+    ],
+    [
+     92,
+     222
+    ],
+    [
+     103,
+     118
+    ],
+    [
+     92,
+     130
+    ],
+    [
+     158,
+     211
+    ],
+    [
+     24,
+     97
+    ],
+    [
+     24,
+     89
+    ],
+    [
+     138,
+     127
+    ]
+   ],
+   "homog_pixels": 178,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 86,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 512,
+   "col": 1280,
+   "split": "eval",
+   "coords": [
+    [
+     75,
+     244
+    ],
+    [
+     123,
+     146
+    ],
+    [
+     34,
+     43
+    ],
+    [
+     75,
+     222
+    ],
+    [
+     160,
+     232
+    ],
+    [
+     94,
+     238
+    ],
+    [
+     129,
+     161
+    ],
+    [
+     89,
+     46
+    ]
+   ],
+   "homog_pixels": 375,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 87,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 512,
+   "col": 1536,
+   "split": "dv",
+   "coords": [
+    [
+     171,
+     20
+    ],
+    [
+     185,
+     187
+    ],
+    [
+     144,
+     165
+    ],
+    [
+     92,
+     111
+    ],
+    [
+     67,
+     12
+    ],
+    [
+     92,
+     191
+    ],
+    [
+     86,
+     95
+    ],
+    [
+     117,
+     140
+    ]
+   ],
+   "homog_pixels": 1421,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 88,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 512,
+   "col": 1792,
+   "split": "eval",
+   "coords": [
+    [
+     217,
+     191
+    ],
+    [
+     228,
+     190
+    ],
+    [
+     91,
+     38
+    ],
+    [
+     236,
+     187
+    ],
+    [
+     234,
+     63
+    ],
+    [
+     31,
+     92
+    ],
+    [
+     186,
+     198
+    ],
+    [
+     148,
+     189
+    ]
+   ],
+   "homog_pixels": 675,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 89,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 512,
+   "col": 2048,
+   "split": "eval",
+   "coords": [
+    [
+     233,
+     149
+    ],
+    [
+     160,
+     231
+    ],
+    [
+     205,
+     93
+    ],
+    [
+     209,
+     115
+    ],
+    [
+     51,
+     148
+    ],
+    [
+     225,
+     181
+    ],
+    [
+     196,
+     190
+    ],
+    [
+     234,
+     157
+    ]
+   ],
+   "homog_pixels": 242,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 90,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 512,
+   "col": 2304,
+   "split": "dv",
+   "coords": [
+    [
+     154,
+     215
+    ],
+    [
+     65,
+     202
+    ],
+    [
+     124,
+     240
+    ],
+    [
+     155,
+     170
+    ],
+    [
+     187,
+     112
+    ],
+    [
+     170,
+     43
+    ],
+    [
+     159,
+     183
+    ],
+    [
+     134,
+     119
+    ]
+   ],
+   "homog_pixels": 1653,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 91,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 768,
+   "col": 0,
+   "split": "dv",
+   "coords": [
+    [
+     83,
+     211
+    ],
+    [
+     93,
+     66
+    ],
+    [
+     129,
+     186
+    ],
+    [
+     62,
+     106
+    ],
+    [
+     24,
+     61
+    ],
+    [
+     128,
+     168
+    ],
+    [
+     21,
+     72
+    ],
+    [
+     62,
+     120
+    ]
+   ],
+   "homog_pixels": 2263,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 92,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 768,
+   "col": 256,
+   "split": "eval",
+   "coords": [
+    [
+     46,
+     233
+    ],
+    [
+     14,
+     69
+    ],
+    [
+     19,
+     158
+    ],
+    [
+     92,
+     128
+    ],
+    [
+     60,
+     229
+    ],
+    [
+     115,
+     236
+    ],
+    [
+     94,
+     38
+    ],
+    [
+     83,
+     97
+    ]
+   ],
+   "homog_pixels": 1159,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 93,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 768,
+   "col": 512,
+   "split": "dv",
+   "coords": [
+    [
+     197,
+     87
+    ],
+    [
+     126,
+     95
+    ],
+    [
+     9,
+     224
+    ],
+    [
+     191,
+     18
+    ],
+    [
+     235,
+     180
+    ],
+    [
+     123,
+     212
+    ],
+    [
+     141,
+     167
+    ],
+    [
+     125,
+     74
+    ]
+   ],
+   "homog_pixels": 592,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 94,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 768,
+   "col": 768,
+   "split": "eval",
+   "coords": [
+    [
+     231,
+     87
+    ],
+    [
+     122,
+     126
+    ],
+    [
+     207,
+     101
+    ],
+    [
+     127,
+     9
+    ],
+    [
+     152,
+     52
+    ],
+    [
+     156,
+     70
+    ],
+    [
+     123,
+     20
+    ],
+    [
+     66,
+     78
+    ]
+   ],
+   "homog_pixels": 993,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 95,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 768,
+   "col": 1024,
+   "split": "eval",
+   "coords": [
+    [
+     133,
+     152
+    ],
+    [
+     137,
+     47
+    ],
+    [
+     9,
+     39
+    ],
+    [
+     85,
+     209
+    ],
+    [
+     131,
+     161
+    ],
+    [
+     132,
+     39
+    ],
+    [
+     180,
+     27
+    ],
+    [
+     131,
+     138
+    ]
+   ],
+   "homog_pixels": 1550,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 96,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 768,
+   "col": 1280,
+   "split": "dv",
+   "coords": [
+    [
+     150,
+     152
+    ],
+    [
+     111,
+     47
+    ],
+    [
+     84,
+     141
+    ],
+    [
+     100,
+     70
+    ],
+    [
+     60,
+     156
+    ],
+    [
+     132,
+     62
+    ],
+    [
+     225,
+     131
+    ],
+    [
+     98,
+     56
+    ]
+   ],
+   "homog_pixels": 282,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 97,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 768,
+   "col": 1536,
+   "split": "eval",
+   "coords": [
+    [
+     23,
+     206
+    ],
+    [
+     100,
+     196
+    ],
+    [
+     134,
+     144
+    ],
+    [
+     136,
+     119
+    ],
+    [
+     92,
+     128
+    ],
+    [
+     172,
+     9
+    ],
+    [
+     113,
+     155
+    ],
+    [
+     207,
+     179
+    ]
+   ],
+   "homog_pixels": 764,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 98,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 768,
+   "col": 1792,
+   "split": "eval",
+   "coords": [
+    [
+     111,
+     28
+    ],
+    [
+     44,
+     12
+    ],
+    [
+     94,
+     83
+    ],
+    [
+     99,
+     212
+    ],
+    [
+     136,
+     9
+    ],
+    [
+     130,
+     242
+    ],
+    [
+     42,
+     189
+    ],
+    [
+     113,
+     48
+    ]
+   ],
+   "homog_pixels": 398,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 99,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 768,
+   "col": 2048,
+   "split": "eval",
+   "coords": [
+    [
+     60,
+     132
+    ],
+    [
+     91,
+     114
+    ],
+    [
+     24,
+     38
+    ],
+    [
+     28,
+     10
+    ],
+    [
+     49,
+     33
+    ],
+    [
+     80,
+     54
+    ],
+    [
+     66,
+     96
+    ],
+    [
+     93,
+     89
+    ]
+   ],
+   "homog_pixels": 2530,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 100,
+   "site": "ankara_continental_urban_confirmatory",
+   "row": 768,
+   "col": 2304,
+   "split": "dv",
+   "coords": [
+    [
+     143,
+     40
+    ],
+    [
+     34,
+     94
+    ],
+    [
+     40,
+     14
+    ],
+    [
+     35,
+     148
+    ],
+    [
+     31,
+     177
+    ],
+    [
+     112,
+     113
+    ],
+    [
+     26,
+     151
+    ],
+    [
+     139,
+     88
+    ]
+   ],
+   "homog_pixels": 2032,
+   "dates": 12,
+   "subswath": "IW3"
+  },
+  {
+   "scene": 101,
+   "site": "montreal_urban_confirmatory",
+   "row": 0,
+   "col": 0,
+   "split": "eval",
+   "coords": [
+    [
+     182,
+     237
+    ],
+    [
+     132,
+     200
+    ],
+    [
+     246,
+     104
+    ],
+    [
+     92,
+     38
+    ],
+    [
+     240,
+     73
+    ],
+    [
+     182,
+     143
+    ],
+    [
+     241,
+     45
+    ],
+    [
+     207,
+     76
+    ]
+   ],
+   "homog_pixels": 254,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 102,
+   "site": "montreal_urban_confirmatory",
+   "row": 0,
+   "col": 256,
+   "split": "eval",
+   "coords": [
+    [
+     26,
+     239
+    ],
+    [
+     18,
+     228
+    ],
+    [
+     11,
+     238
+    ],
+    [
+     191,
+     154
+    ],
+    [
+     147,
+     154
+    ],
+    [
+     40,
+     62
+    ],
+    [
+     203,
+     136
+    ],
+    [
+     50,
+     16
+    ]
+   ],
+   "homog_pixels": 1205,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 103,
+   "site": "montreal_urban_confirmatory",
+   "row": 0,
+   "col": 512,
+   "split": "dv",
+   "coords": [
+    [
+     31,
+     202
+    ],
+    [
+     28,
+     27
+    ],
+    [
+     9,
+     201
+    ],
+    [
+     28,
+     16
+    ],
+    [
+     79,
+     215
+    ],
+    [
+     187,
+     156
+    ],
+    [
+     191,
+     168
+    ],
+    [
+     44,
+     115
+    ]
+   ],
+   "homog_pixels": 1193,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 104,
+   "site": "montreal_urban_confirmatory",
+   "row": 0,
+   "col": 768,
+   "split": "eval",
+   "coords": [
+    [
+     10,
+     119
+    ],
+    [
+     149,
+     197
+    ],
+    [
+     233,
+     240
+    ],
+    [
+     134,
+     96
+    ],
+    [
+     113,
+     50
+    ],
+    [
+     167,
+     32
+    ],
+    [
+     117,
+     62
+    ],
+    [
+     149,
+     182
+    ]
+   ],
+   "homog_pixels": 538,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 105,
+   "site": "montreal_urban_confirmatory",
+   "row": 0,
+   "col": 1024,
+   "split": "eval",
+   "coords": [
+    [
+     209,
+     235
+    ],
+    [
+     232,
+     145
+    ],
+    [
+     209,
+     224
+    ],
+    [
+     188,
+     139
+    ],
+    [
+     238,
+     161
+    ],
+    [
+     223,
+     68
+    ],
+    [
+     183,
+     155
+    ],
+    [
+     181,
+     174
+    ]
+   ],
+   "homog_pixels": 182,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 106,
+   "site": "montreal_urban_confirmatory",
+   "row": 0,
+   "col": 1280,
+   "split": "eval",
+   "coords": [
+    [
+     189,
+     94
+    ],
+    [
+     139,
+     39
+    ],
+    [
+     208,
+     42
+    ],
+    [
+     182,
+     110
+    ],
+    [
+     238,
+     63
+    ],
+    [
+     124,
+     159
+    ],
+    [
+     90,
+     110
+    ],
+    [
+     85,
+     145
+    ]
+   ],
+   "homog_pixels": 341,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 107,
+   "site": "montreal_urban_confirmatory",
+   "row": 256,
+   "col": 0,
+   "split": "eval",
+   "coords": [
+    [
+     23,
+     239
+    ],
+    [
+     14,
+     169
+    ],
+    [
+     27,
+     207
+    ],
+    [
+     18,
+     181
+    ],
+    [
+     23,
+     198
+    ],
+    [
+     16,
+     149
+    ],
+    [
+     116,
+     84
+    ],
+    [
+     69,
+     70
+    ]
+   ],
+   "homog_pixels": 263,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 108,
+   "site": "montreal_urban_confirmatory",
+   "row": 256,
+   "col": 256,
+   "split": "eval",
+   "coords": [
+    [
+     28,
+     11
+    ],
+    [
+     170,
+     136
+    ],
+    [
+     176,
+     206
+    ],
+    [
+     171,
+     126
+    ],
+    [
+     174,
+     181
+    ],
+    [
+     194,
+     191
+    ],
+    [
+     199,
+     218
+    ],
+    [
+     247,
+     123
+    ]
+   ],
+   "homog_pixels": 698,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 109,
+   "site": "montreal_urban_confirmatory",
+   "row": 256,
+   "col": 512,
+   "split": "eval",
+   "coords": [
+    [
+     224,
+     63
+    ],
+    [
+     237,
+     179
+    ],
+    [
+     93,
+     172
+    ],
+    [
+     224,
+     34
+    ],
+    [
+     62,
+     26
+    ],
+    [
+     226,
+     25
+    ],
+    [
+     240,
+     222
+    ],
+    [
+     69,
+     82
+    ]
+   ],
+   "homog_pixels": 995,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 110,
+   "site": "montreal_urban_confirmatory",
+   "row": 256,
+   "col": 768,
+   "split": "eval",
+   "coords": [
+    [
+     216,
+     80
+    ],
+    [
+     186,
+     109
+    ],
+    [
+     236,
+     213
+    ],
+    [
+     233,
+     116
+    ],
+    [
+     241,
+     229
+    ],
+    [
+     180,
+     184
+    ],
+    [
+     191,
+     170
+    ],
+    [
+     220,
+     216
+    ]
+   ],
+   "homog_pixels": 1432,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 111,
+   "site": "montreal_urban_confirmatory",
+   "row": 256,
+   "col": 1024,
+   "split": "eval",
+   "coords": [
+    [
+     185,
+     160
+    ],
+    [
+     41,
+     200
+    ],
+    [
+     35,
+     62
+    ],
+    [
+     46,
+     235
+    ],
+    [
+     168,
+     27
+    ],
+    [
+     18,
+     212
+    ],
+    [
+     27,
+     12
+    ],
+    [
+     10,
+     56
+    ]
+   ],
+   "homog_pixels": 337,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 112,
+   "site": "montreal_urban_confirmatory",
+   "row": 256,
+   "col": 1280,
+   "split": "eval",
+   "coords": [
+    [
+     20,
+     232
+    ],
+    [
+     9,
+     120
+    ],
+    [
+     17,
+     247
+    ],
+    [
+     31,
+     204
+    ],
+    [
+     142,
+     56
+    ],
+    [
+     89,
+     72
+    ],
+    [
+     9,
+     9
+    ],
+    [
+     99,
+     172
+    ]
+   ],
+   "homog_pixels": 730,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 113,
+   "site": "montreal_urban_confirmatory",
+   "row": 256,
+   "col": 1536,
+   "split": "eval",
+   "coords": [
+    [
+     20,
+     107
+    ],
+    [
+     81,
+     171
+    ],
+    [
+     177,
+     160
+    ],
+    [
+     95,
+     21
+    ],
+    [
+     119,
+     207
+    ],
+    [
+     219,
+     165
+    ],
+    [
+     27,
+     151
+    ],
+    [
+     12,
+     15
+    ]
+   ],
+   "homog_pixels": 977,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 114,
+   "site": "montreal_urban_confirmatory",
+   "row": 512,
+   "col": 0,
+   "split": "eval",
+   "coords": [
+    [
+     176,
+     103
+    ],
+    [
+     64,
+     198
+    ],
+    [
+     47,
+     202
+    ],
+    [
+     56,
+     76
+    ],
+    [
+     164,
+     123
+    ],
+    [
+     173,
+     215
+    ],
+    [
+     66,
+     108
+    ],
+    [
+     94,
+     33
+    ]
+   ],
+   "homog_pixels": 918,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 115,
+   "site": "montreal_urban_confirmatory",
+   "row": 512,
+   "col": 256,
+   "split": "dv",
+   "coords": [
+    [
+     20,
+     203
+    ],
+    [
+     149,
+     33
+    ],
+    [
+     181,
+     229
+    ],
+    [
+     190,
+     57
+    ],
+    [
+     159,
+     171
+    ],
+    [
+     154,
+     129
+    ],
+    [
+     218,
+     38
+    ],
+    [
+     186,
+     42
+    ]
+   ],
+   "homog_pixels": 2476,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 116,
+   "site": "montreal_urban_confirmatory",
+   "row": 512,
+   "col": 512,
+   "split": "dv",
+   "coords": [
+    [
+     177,
+     57
+    ],
+    [
+     212,
+     155
+    ],
+    [
+     54,
+     219
+    ],
+    [
+     241,
+     124
+    ],
+    [
+     216,
+     139
+    ],
+    [
+     39,
+     79
+    ],
+    [
+     27,
+     170
+    ],
+    [
+     198,
+     103
+    ]
+   ],
+   "homog_pixels": 1175,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 117,
+   "site": "montreal_urban_confirmatory",
+   "row": 512,
+   "col": 768,
+   "split": "eval",
+   "coords": [
+    [
+     247,
+     65
+    ],
+    [
+     240,
+     240
+    ],
+    [
+     36,
+     128
+    ],
+    [
+     36,
+     13
+    ],
+    [
+     99,
+     193
+    ],
+    [
+     32,
+     192
+    ],
+    [
+     144,
+     226
+    ],
+    [
+     103,
+     183
+    ]
+   ],
+   "homog_pixels": 77,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 118,
+   "site": "montreal_urban_confirmatory",
+   "row": 512,
+   "col": 1024,
+   "split": "eval",
+   "coords": [
+    [
+     10,
+     74
+    ],
+    [
+     19,
+     234
+    ],
+    [
+     16,
+     243
+    ],
+    [
+     54,
+     109
+    ],
+    [
+     71,
+     118
+    ],
+    [
+     170,
+     224
+    ],
+    [
+     25,
+     175
+    ],
+    [
+     46,
+     120
+    ]
+   ],
+   "homog_pixels": 313,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 119,
+   "site": "montreal_urban_confirmatory",
+   "row": 512,
+   "col": 1280,
+   "split": "eval",
+   "coords": [
+    [
+     133,
+     15
+    ],
+    [
+     35,
+     34
+    ],
+    [
+     14,
+     147
+    ],
+    [
+     10,
+     180
+    ],
+    [
+     135,
+     42
+    ],
+    [
+     121,
+     139
+    ],
+    [
+     32,
+     54
+    ],
+    [
+     27,
+     76
+    ]
+   ],
+   "homog_pixels": 188,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 120,
+   "site": "montreal_urban_confirmatory",
+   "row": 512,
+   "col": 1536,
+   "split": "dv",
+   "coords": [
+    [
+     13,
+     173
+    ],
+    [
+     136,
+     51
+    ],
+    [
+     93,
+     236
+    ],
+    [
+     156,
+     35
+    ],
+    [
+     29,
+     47
+    ],
+    [
+     128,
+     239
+    ],
+    [
+     8,
+     46
+    ],
+    [
+     74,
+     204
+    ]
+   ],
+   "homog_pixels": 111,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 121,
+   "site": "montreal_urban_confirmatory",
+   "row": 512,
+   "col": 1792,
+   "split": "eval",
+   "coords": [
+    [
+     162,
+     95
+    ],
+    [
+     157,
+     63
+    ],
+    [
+     177,
+     143
+    ],
+    [
+     122,
+     41
+    ],
+    [
+     127,
+     21
+    ],
+    [
+     168,
+     71
+    ],
+    [
+     61,
+     134
+    ],
+    [
+     157,
+     76
+    ]
+   ],
+   "homog_pixels": 219,
+   "dates": 10,
+   "subswath": "IW1"
+  },
+  {
+   "scene": 122,
+   "site": "seoul_urban_confirmatory",
+   "row": 0,
+   "col": 0,
+   "split": "eval",
+   "coords": [
+    [
+     181,
+     54
+    ],
+    [
+     179,
+     37
+    ],
+    [
+     244,
+     165
+    ],
+    [
+     149,
+     219
+    ],
+    [
+     215,
+     14
+    ],
+    [
+     226,
+     94
+    ],
+    [
+     221,
+     101
+    ],
+    [
+     173,
+     8
+    ]
+   ],
+   "homog_pixels": 1334,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 123,
+   "site": "seoul_urban_confirmatory",
+   "row": 0,
+   "col": 2048,
+   "split": "eval",
+   "coords": [
+    [
+     165,
+     214
+    ],
+    [
+     18,
+     227
+    ],
+    [
+     96,
+     189
+    ],
+    [
+     21,
+     169
+    ],
+    [
+     120,
+     79
+    ],
+    [
+     18,
+     235
+    ],
+    [
+     70,
+     28
+    ],
+    [
+     53,
+     74
+    ]
+   ],
+   "homog_pixels": 3105,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 124,
+   "site": "seoul_urban_confirmatory",
+   "row": 256,
+   "col": 512,
+   "split": "eval",
+   "coords": [
+    [
+     44,
+     247
+    ],
+    [
+     45,
+     173
+    ],
+    [
+     12,
+     238
+    ],
+    [
+     17,
+     208
+    ],
+    [
+     40,
+     137
+    ],
+    [
+     48,
+     130
+    ],
+    [
+     168,
+     43
+    ],
+    [
+     222,
+     173
+    ]
+   ],
+   "homog_pixels": 1241,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 125,
+   "site": "seoul_urban_confirmatory",
+   "row": 256,
+   "col": 768,
+   "split": "eval",
+   "coords": [
+    [
+     44,
+     72
+    ],
+    [
+     73,
+     102
+    ],
+    [
+     129,
+     213
+    ],
+    [
+     81,
+     142
+    ],
+    [
+     178,
+     216
+    ],
+    [
+     95,
+     138
+    ],
+    [
+     29,
+     131
+    ],
+    [
+     68,
+     46
+    ]
+   ],
+   "homog_pixels": 232,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 126,
+   "site": "seoul_urban_confirmatory",
+   "row": 256,
+   "col": 1024,
+   "split": "eval",
+   "coords": [
+    [
+     232,
+     143
+    ],
+    [
+     132,
+     124
+    ],
+    [
+     228,
+     109
+    ],
+    [
+     219,
+     150
+    ],
+    [
+     110,
+     175
+    ],
+    [
+     109,
+     12
+    ],
+    [
+     102,
+     168
+    ],
+    [
+     205,
+     127
+    ]
+   ],
+   "homog_pixels": 218,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 127,
+   "site": "seoul_urban_confirmatory",
+   "row": 256,
+   "col": 1280,
+   "split": "eval",
+   "coords": [
+    [
+     235,
+     79
+    ],
+    [
+     242,
+     87
+    ],
+    [
+     42,
+     201
+    ],
+    [
+     230,
+     170
+    ],
+    [
+     245,
+     115
+    ],
+    [
+     23,
+     134
+    ],
+    [
+     244,
+     196
+    ],
+    [
+     206,
+     157
+    ]
+   ],
+   "homog_pixels": 890,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 128,
+   "site": "seoul_urban_confirmatory",
+   "row": 256,
+   "col": 1536,
+   "split": "eval",
+   "coords": [
+    [
+     47,
+     96
+    ],
+    [
+     207,
+     150
+    ],
+    [
+     240,
+     82
+    ],
+    [
+     237,
+     61
+    ],
+    [
+     62,
+     149
+    ],
+    [
+     242,
+     72
+    ],
+    [
+     9,
+     221
+    ],
+    [
+     241,
+     27
+    ]
+   ],
+   "homog_pixels": 400,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 129,
+   "site": "seoul_urban_confirmatory",
+   "row": 256,
+   "col": 1792,
+   "split": "eval",
+   "coords": [
+    [
+     241,
+     56
+    ],
+    [
+     245,
+     13
+    ],
+    [
+     192,
+     42
+    ],
+    [
+     139,
+     140
+    ],
+    [
+     208,
+     207
+    ],
+    [
+     13,
+     59
+    ],
+    [
+     197,
+     11
+    ],
+    [
+     189,
+     30
+    ]
+   ],
+   "homog_pixels": 169,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 130,
+   "site": "seoul_urban_confirmatory",
+   "row": 256,
+   "col": 2048,
+   "split": "eval",
+   "coords": [
+    [
+     230,
+     149
+    ],
+    [
+     241,
+     211
+    ],
+    [
+     65,
+     42
+    ],
+    [
+     184,
+     231
+    ],
+    [
+     240,
+     111
+    ],
+    [
+     241,
+     96
+    ],
+    [
+     246,
+     171
+    ],
+    [
+     240,
+     143
+    ]
+   ],
+   "homog_pixels": 2492,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 131,
+   "site": "seoul_urban_confirmatory",
+   "row": 512,
+   "col": 0,
+   "split": "eval",
+   "coords": [
+    [
+     231,
+     98
+    ],
+    [
+     79,
+     95
+    ],
+    [
+     54,
+     196
+    ],
+    [
+     172,
+     114
+    ],
+    [
+     198,
+     189
+    ],
+    [
+     63,
+     221
+    ],
+    [
+     195,
+     147
+    ],
+    [
+     93,
+     12
+    ]
+   ],
+   "homog_pixels": 1015,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 132,
+   "site": "seoul_urban_confirmatory",
+   "row": 512,
+   "col": 256,
+   "split": "eval",
+   "coords": [
+    [
+     50,
+     80
+    ],
+    [
+     36,
+     22
+    ],
+    [
+     226,
+     14
+    ],
+    [
+     20,
+     102
+    ],
+    [
+     52,
+     159
+    ],
+    [
+     21,
+     134
+    ],
+    [
+     47,
+     213
+    ],
+    [
+     38,
+     147
+    ]
+   ],
+   "homog_pixels": 807,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 133,
+   "site": "seoul_urban_confirmatory",
+   "row": 512,
+   "col": 512,
+   "split": "eval",
+   "coords": [
+    [
+     129,
+     187
+    ],
+    [
+     81,
+     84
+    ],
+    [
+     19,
+     224
+    ],
+    [
+     77,
+     60
+    ],
+    [
+     221,
+     26
+    ],
+    [
+     15,
+     203
+    ],
+    [
+     16,
+     195
+    ],
+    [
+     182,
+     134
+    ]
+   ],
+   "homog_pixels": 891,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 134,
+   "site": "seoul_urban_confirmatory",
+   "row": 512,
+   "col": 768,
+   "split": "eval",
+   "coords": [
+    [
+     96,
+     152
+    ],
+    [
+     30,
+     198
+    ],
+    [
+     30,
+     183
+    ],
+    [
+     41,
+     209
+    ],
+    [
+     55,
+     243
+    ],
+    [
+     11,
+     215
+    ],
+    [
+     73,
+     216
+    ],
+    [
+     28,
+     231
+    ]
+   ],
+   "homog_pixels": 251,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 135,
+   "site": "seoul_urban_confirmatory",
+   "row": 512,
+   "col": 1024,
+   "split": "dv",
+   "coords": [
+    [
+     20,
+     161
+    ],
+    [
+     32,
+     100
+    ],
+    [
+     8,
+     130
+    ],
+    [
+     8,
+     120
+    ],
+    [
+     27,
+     75
+    ],
+    [
+     65,
+     193
+    ],
+    [
+     11,
+     236
+    ],
+    [
+     18,
+     9
+    ]
+   ],
+   "homog_pixels": 350,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 136,
+   "site": "seoul_urban_confirmatory",
+   "row": 512,
+   "col": 1280,
+   "split": "dv",
+   "coords": [
+    [
+     137,
+     132
+    ],
+    [
+     58,
+     37
+    ],
+    [
+     58,
+     59
+    ],
+    [
+     58,
+     50
+    ],
+    [
+     32,
+     156
+    ],
+    [
+     34,
+     72
+    ],
+    [
+     49,
+     214
+    ],
+    [
+     66,
+     70
+    ]
+   ],
+   "homog_pixels": 189,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 137,
+   "site": "seoul_urban_confirmatory",
+   "row": 512,
+   "col": 1536,
+   "split": "eval",
+   "coords": [
+    [
+     11,
+     215
+    ],
+    [
+     25,
+     77
+    ],
+    [
+     56,
+     125
+    ],
+    [
+     15,
+     21
+    ],
+    [
+     240,
+     141
+    ],
+    [
+     9,
+     15
+    ],
+    [
+     204,
+     221
+    ],
+    [
+     38,
+     75
+    ]
+   ],
+   "homog_pixels": 803,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 138,
+   "site": "seoul_urban_confirmatory",
+   "row": 512,
+   "col": 1792,
+   "split": "dv",
+   "coords": [
+    [
+     205,
+     130
+    ],
+    [
+     228,
+     105
+    ],
+    [
+     8,
+     57
+    ],
+    [
+     13,
+     233
+    ],
+    [
+     121,
+     117
+    ],
+    [
+     105,
+     179
+    ],
+    [
+     56,
+     226
+    ],
+    [
+     28,
+     34
+    ]
+   ],
+   "homog_pixels": 661,
+   "dates": 12,
+   "subswath": "IW2"
+  },
+  {
+   "scene": 139,
+   "site": "seoul_urban_confirmatory",
+   "row": 512,
+   "col": 2048,
+   "split": "dv",
+   "coords": [
+    [
+     23,
+     69
+    ],
+    [
+     156,
+     140
+    ],
+    [
+     24,
+     53
+    ],
+    [
+     35,
+     175
+    ],
+    [
+     81,
+     219
+    ],
+    [
+     192,
+     145
+    ],
+    [
+     216,
+     235
+    ],
+    [
+     200,
+     144
+    ]
+   ],
+   "homog_pixels": 437,
+   "dates": 12,
+   "subswath": "IW2"
+  }
+ ],
+ "tile": 256,
+ "cv_homog": 0.08,
+ "seed_split": 20261006
+}

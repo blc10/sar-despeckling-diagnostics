@@ -1,0 +1,317 @@
+{
+ "patches": 284,
+ "cities": 23,
+ "reproduction": {
+  "max_abs_diff": 0.017183285460198983,
+  "share_within_0.01": 0.9981690140845071,
+  "scatterer_count_equal": 1.0
+ },
+ "patches_with_scatterer_above_threshold": {
+  "proxy_ge12": 0.8204225352112676,
+  "proxy_ge14": 0.6514084507042254
+ },
+ "prediction_check_rho_released_vs_rerun": 0.9869508481948671,
+ "full_data_released": {
+  "H2|rf_peak_log_err": {
+   "rho": 0.9765115267507611,
+   "ci_method": [
+    0.9068352559589312,
+    0.9955721776585029
+   ]
+  },
+  "H3|rf_jsd|rf_peak_log_err": {
+   "rho": -0.7484235880339376,
+   "ci_method": [
+    -0.8627661167918197,
+    -0.4330843407628018
+   ]
+  },
+  "H3|rf_tdm_d|rf_peak_log_err": {
+   "rho": -0.7823440063178698,
+   "ci_method": [
+    -0.9160232461912519,
+    -0.511785300918053
+   ]
+  }
+ },
+ "subsample": {
+  "H2|rf_peak_log_err": {
+   "rho": 0.9773814702044367,
+   "ci_method": [
+    0.9081004859625451,
+    0.9973603747770049
+   ]
+  },
+  "H3|rf_jsd|rf_peak_log_err": {
+   "rho": -0.754511868238746,
+   "ci_method": [
+    -0.8717558888939819,
+    -0.43980333371768193
+   ]
+  },
+  "H3|rf_tdm_d|rf_peak_log_err": {
+   "rho": -0.7849532692627876,
+   "ci_method": [
+    -0.918709840552118,
+    -0.5109689645505571
+   ]
+  },
+  "H2|proxy_released": {
+   "rho": 0.9773814702044367,
+   "ci_method": [
+    0.9081004859625451,
+    0.9973603747770049
+   ]
+  },
+  "H3|rf_jsd|proxy_released": {
+   "rho": -0.754511868238746,
+   "ci_method": [
+    -0.8717558888939819,
+    -0.43980333371768193
+   ]
+  },
+  "H3|rf_tdm_d|proxy_released": {
+   "rho": -0.7849532692627876,
+   "ci_method": [
+    -0.918709840552118,
+    -0.5109689645505571
+   ]
+  },
+  "H2|proxy_ge12": {
+   "rho": 0.9249448123620309,
+   "ci_method": [
+    0.7407503763787753,
+    0.9909012321497788
+   ]
+  },
+  "H3|rf_jsd|proxy_ge12": {
+   "rho": -0.7128358477041871,
+   "ci_method": [
+    -0.8480998977910383,
+    -0.43558225824391883
+   ]
+  },
+  "H3|rf_tdm_d|proxy_ge12": {
+   "rho": -0.7229128142052297,
+   "ci_method": [
+    -0.8757240272472945,
+    -0.4592456504958334
+   ]
+  },
+  "H2|proxy_ge14": {
+   "rho": 0.8719646799116997,
+   "ci_method": [
+    0.6774895230762346,
+    0.9577315828919842
+   ]
+  },
+  "H3|rf_jsd|proxy_ge14": {
+   "rho": -0.7478861659686831,
+   "ci_method": [
+    -0.8932982823980206,
+    -0.5144374618343515
+   ]
+  },
+  "H3|rf_tdm_d|proxy_ge14": {
+   "rho": -0.6151330855419045,
+   "ci_method": [
+    -0.8072065314390474,
+    -0.29848976776986286
+   ]
+  }
+ },
+ "method_means": {
+  "cl_sar_default_official": {
+   "proxy_released": 1.3149,
+   "rf_peak_log_err": 1.3149,
+   "rf_jsd": 0.0061,
+   "rf_tdm_d": 0.1231,
+   "proxy_ge12": 1.1588,
+   "proxy_ge14": 0.9306
+  },
+  "cl_sar_t2_official": {
+   "proxy_released": 1.4781,
+   "rf_peak_log_err": 1.4782,
+   "rf_jsd": 0.0035,
+   "rf_tdm_d": 0.0936,
+   "proxy_ge12": 1.3492,
+   "proxy_ge14": 1.1149
+  },
+  "enhanced_lee_7x7": {
+   "proxy_released": 0.0616,
+   "rf_peak_log_err": 0.0616,
+   "rf_jsd": 0.0573,
+   "rf_tdm_d": 0.4747,
+   "proxy_ge12": 0.0076,
+   "proxy_ge14": 0.0052
+  },
+  "frost_7x7": {
+   "proxy_released": 0.0893,
+   "rf_peak_log_err": 0.0893,
+   "rf_jsd": 0.0351,
+   "rf_tdm_d": 0.3304,
+   "proxy_ge12": 0.0104,
+   "proxy_ge14": 0.0039
+  },
+  "gamma_map_7x7": {
+   "proxy_released": 0.1494,
+   "rf_peak_log_err": 0.1494,
+   "rf_jsd": 0.0893,
+   "rf_tdm_d": 0.6272,
+   "proxy_ge12": 0.1106,
+   "proxy_ge14": 0.1032
+  },
+  "guarded_anchor": {
+   "proxy_released": 0.0244,
+   "rf_peak_log_err": 0.0243,
+   "rf_jsd": 0.018,
+   "rf_tdm_d": 0.3444,
+   "proxy_ge12": 0.0038,
+   "proxy_ge14": 0.0053
+  },
+  "kuan_7x7": {
+   "proxy_released": 0.6753,
+   "rf_peak_log_err": 0.6753,
+   "rf_jsd": 0.0181,
+   "rf_tdm_d": 0.5037,
+   "proxy_ge12": 0.6129,
+   "proxy_ge14": 0.579
+  },
+  "lee_classical_7x7": {
+   "proxy_released": 0.2476,
+   "rf_peak_log_err": 0.2476,
+   "rf_jsd": 0.037,
+   "rf_tdm_d": 0.5087,
+   "proxy_ge12": 0.1525,
+   "proxy_ge14": 0.1067
+  },
+  "lee_sigma_improved": {
+   "proxy_released": 0.6143,
+   "rf_peak_log_err": 0.6143,
+   "rf_jsd": 0.0089,
+   "rf_tdm_d": 0.4361,
+   "proxy_ge12": 0.473,
+   "proxy_ge14": 0.3831
+  },
+  "mean_filter_7x7": {
+   "proxy_released": 2.3331,
+   "rf_peak_log_err": 2.3331,
+   "rf_jsd": 0.0019,
+   "rf_tdm_d": 0.125,
+   "proxy_ge12": 2.5821,
+   "proxy_ge14": 2.7548
+  },
+  "merlin_indomain": {
+   "proxy_released": 1.2294,
+   "rf_peak_log_err": 1.2293,
+   "rf_jsd": 0.002,
+   "rf_tdm_d": 0.1285,
+   "proxy_ge12": 1.2898,
+   "proxy_ge14": 1.3419
+  },
+  "merlin_s1tops_official": {
+   "proxy_released": 1.6447,
+   "rf_peak_log_err": 1.6445,
+   "rf_jsd": 0.0033,
+   "rf_tdm_d": 0.0882,
+   "proxy_ge12": 1.4588,
+   "proxy_ge14": 1.2034
+  },
+  "merlin_tsx_spotlight_official": {
+   "proxy_released": 1.3714,
+   "rf_peak_log_err": 1.3711,
+   "rf_jsd": 0.0066,
+   "rf_tdm_d": 0.1078,
+   "proxy_ge12": 1.2197,
+   "proxy_ge14": 1.0982
+  },
+  "mulog_bm3d": {
+   "proxy_released": 1.5126,
+   "rf_peak_log_err": 1.5123,
+   "rf_jsd": 0.0021,
+   "rf_tdm_d": 0.1022,
+   "proxy_ge12": 1.4787,
+   "proxy_ge14": 1.3865
+  },
+  "no_gamma_tangent": {
+   "proxy_released": 0.0351,
+   "rf_peak_log_err": 0.0351,
+   "rf_jsd": 0.0336,
+   "rf_tdm_d": 0.5712,
+   "proxy_ge12": 0.0038,
+   "proxy_ge14": 0.0053
+  },
+  "no_heat": {
+   "proxy_released": 0.0351,
+   "rf_peak_log_err": 0.0351,
+   "rf_jsd": 0.0336,
+   "rf_tdm_d": 0.5714,
+   "proxy_ge12": 0.0038,
+   "proxy_ge14": 0.0053
+  },
+  "no_point_passthrough": {
+   "proxy_released": 1.1795,
+   "rf_peak_log_err": 1.1796,
+   "rf_jsd": 0.0295,
+   "rf_tdm_d": 0.5021,
+   "proxy_ge12": 1.3936,
+   "proxy_ge14": 1.5594
+  },
+  "no_selection": {
+   "proxy_released": 0.0354,
+   "rf_peak_log_err": 0.0354,
+   "rf_jsd": 0.0336,
+   "rf_tdm_d": 0.5615,
+   "proxy_ge12": 0.0038,
+   "proxy_ge14": 0.0053
+  },
+  "point_passthrough": {
+   "proxy_released": 0.0353,
+   "rf_peak_log_err": 0.0353,
+   "rf_jsd": 0.0317,
+   "rf_tdm_d": 0.5462,
+   "proxy_ge12": 0.0038,
+   "proxy_ge14": 0.0053
+  },
+  "sar2sar_official_direct": {
+   "proxy_released": 1.3779,
+   "rf_peak_log_err": 1.3779,
+   "rf_jsd": 0.0014,
+   "rf_tdm_d": 0.0554,
+   "proxy_ge12": 1.1732,
+   "proxy_ge14": 0.9006
+  },
+  "sar2sar_official_sub2": {
+   "proxy_released": 1.4756,
+   "rf_peak_log_err": 1.4756,
+   "rf_jsd": 0.0021,
+   "rf_tdm_d": 0.0674,
+   "proxy_ge12": 1.3395,
+   "proxy_ge14": 1.1038
+  },
+  "sds_sar_s1_reimpl": {
+   "proxy_released": 0.5421,
+   "rf_peak_log_err": 0.5421,
+   "rf_jsd": 0.0766,
+   "rf_tdm_d": 1.0401,
+   "proxy_ge12": 0.5616,
+   "proxy_ge14": 0.5474
+  },
+  "temporal_unet_indomain": {
+   "proxy_released": 1.0217,
+   "rf_peak_log_err": 1.0217,
+   "rf_jsd": 0.0062,
+   "rf_tdm_d": 0.2,
+   "proxy_ge12": 0.8891,
+   "proxy_ge14": 0.7563
+  },
+  "with_pareto": {
+   "proxy_released": 0.0353,
+   "rf_peak_log_err": 0.0353,
+   "rf_jsd": 0.0317,
+   "rf_tdm_d": 0.5464,
+   "proxy_ge12": 0.0038,
+   "proxy_ge14": 0.0053
+  }
+ }
+}
