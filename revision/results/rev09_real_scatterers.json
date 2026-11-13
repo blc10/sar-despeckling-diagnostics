@@ -1,0 +1,136 @@
+{
+ "primary": {
+  "patches": 2556,
+  "selected": 20437,
+  "per_patch": 7.995696400625978,
+  "obs_contrast_quantiles_db": {
+   "0.1": 9.424948962774199,
+   "0.25": 10.32400216074839,
+   "0.5": 12.192742942491968,
+   "0.75": 15.581608230093497,
+   "0.9": 20.407350019815794
+  },
+  "share_ge_12db": 0.5204775652003719,
+  "share_ge_14db": 0.33884621030483925,
+  "patches_with_any_ge_14db": 0.6322378716744914,
+  "estimated_true_target_share_from_simulation": 0.3967421841661239,
+  "by_city_median_contrast": {
+   "Bingham Copper Mine": 12.9,
+   "Buenos Aires, ARG": 21.7,
+   "Centerfield, Utah": 10.4,
+   "David Fuentes Airbase, Chile": 16.7,
+   "Hetch Hetchy Reservoir": 12.5,
+   "Intel Ohio One": 12.2,
+   "Johnston, Iowa Farm": 14.8,
+   "Komati Power Station, S Africa": 14.4,
+   "Magui Payan, Colombia": 11.6,
+   "Melbourne, Australia": 11.2,
+   "North Dakota State University Plot": 11.6,
+   "Panama Canal, Panama": 14.8,
+   "Papua, Indonesia": 13.0,
+   "Puerto Maldonado, Peru": 11.1,
+   "Rumangabo, DRC": 12.1,
+   "Suvarnabhumi International Airport, Thailand": 14.9,
+   "Sydney International Airport, Australia": 14.1,
+   "Tanna Island, Vanuatu": 10.9,
+   "Texas A&M Farm Plot": 10.1,
+   "UC Davis Ag Plot": 13.0,
+   "Volcanoes": 10.5,
+   "Yapacana, Venezuela": 11.1,
+   "ad hoc": 9.8
+  }
+ },
+ "all_records": {
+  "patches": 3060,
+  "selected": 24468,
+  "per_patch": 7.996078431372549,
+  "obs_contrast_quantiles_db": {
+   "0.1": 9.31649770337271,
+   "0.25": 10.167528872870898,
+   "0.5": 11.90216617064686,
+   "0.75": 15.017173400250517,
+   "0.9": 19.78653904834962
+  },
+  "share_ge_12db": 0.4893738760830472,
+  "share_ge_14db": 0.31093673369298674,
+  "patches_with_any_ge_14db": 0.6003267973856209,
+  "estimated_true_target_share_from_simulation": 0.371719630864983,
+  "by_city_median_contrast": {
+   "Beet Piler - ND": 9.9,
+   "Beet Piler Field - ND": 10.1,
+   "Bingham Copper Mine": 12.9,
+   "Buenos Aires, ARG": 21.7,
+   "Centerfield, Utah": 10.4,
+   "David Fuentes Airbase, Chile": 16.7,
+   "Hetch Hetchy Reservoir": 12.5,
+   "Intel Ohio One": 12.2,
+   "Johnston, Iowa Farm": 14.8,
+   "Komati Power Station, S Africa": 14.4,
+   "Lynchburg, ND": 9.8,
+   "Magui Payan, Colombia": 11.5,
+   "Melbourne, Australia": 11.2,
+   "Myra, ND": 9.8,
+   "North Dakota State University Plot": 11.7,
+   "Panama Canal, Panama": 14.8,
+   "Papua, Indonesia": 13.0,
+   "Puerto Maldonado, Peru": 11.1,
+   "Purdue University Farm Plot": 10.1,
+   "Rumangabo, DRC": 12.1,
+   "Sugar Beet processing plant, ND": 10.3,
+   "Suvarnabhumi International Airport, Thailand": 14.9,
+   "Sydney International Airport, Australia": 14.1,
+   "Tanna Island, Vanuatu": 11.4,
+   "Texas A&M Farm Plot": 10.1,
+   "UC Davis Ag Plot": 13.0,
+   "Volcanoes": 10.5,
+   "Yapacana, Venezuela": 11.1,
+   "ad hoc": 9.8
+  }
+ },
+ "simulation_sarlo": {
+  "obs_contrast_quantiles_db": {
+   "0.1": 9.41247531,
+   "0.25": 10.50380275,
+   "0.5": 12.088385,
+   "0.75": 14.29233675,
+   "0.9": 17.1812957
+  },
+  "share_ge_12db": 0.5078125,
+  "share_ge_14db": 0.2859375,
+  "true_target_share": 0.3515625,
+  "true_target_share_by_bin": {
+   "(-inf, 6.0]": [
+    NaN,
+    0
+   ],
+   "(6.0, 8.0]": [
+    NaN,
+    0
+   ],
+   "(8.0, 10.0]": [
+    0.05128205128205128,
+    117
+   ],
+   "(10.0, 12.0]": [
+    0.1111111111111111,
+    198
+   ],
+   "(12.0, 14.0]": [
+    0.30985915492957744,
+    142
+   ],
+   "(14.0, 16.0]": [
+    0.7160493827160493,
+    81
+   ],
+   "(16.0, 20.0]": [
+    0.9213483146067416,
+    89
+   ],
+   "(20.0, inf]": [
+    1.0,
+    13
+   ]
+  }
+ }
+}
